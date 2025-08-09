@@ -12238,7 +12238,8 @@
           "description": "Loaded with world class excitement! Features 6 competition modes like World Cup for 64 worldwide teams. Utilizes Digitized Trace Animation and 3D camera angled shots for a realistic on-the-fly action graphic explosion. With 8 different playing modes including options such as Speed and Stamina, you can mix and match 512 different team configurations. Accidents hinder or enhance a team's ability within head-to-head gameplay for the ultimate super-real soccer experience!",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://archive.org/download/kof98_202309/ssideki3.zip"
+            "rom": "https://archive.org/download/kof98_202309/ssideki3.zip",
+            "additionalRoms": []
           },
           "added": 1695601864915
         },
@@ -82356,6 +82357,22 @@
         },
         {
           "props": {
+            "uid": "a7aede63-d159-43ff-b66f-295d0ac7dea4",
+            "discs": [
+              "https://gam.onl/user/psx/roms/Street%20Fighter%20-%20The%20Movie%20(USA).chd"
+            ]
+          },
+          "type": "beetle-psx",
+          "title": "Street Fighter - The Movie",
+          "description": "Street Fighter: The Movie is a 2D beat 'em up game based on the movie of the same name, which in turn is based on the well known Capcom series, Street Fighter. Using digitized animation based on the actors and the many locations featured in the film, the same style of gameplay found in Street Fighter II and Super Street Fighter II Turbo is used here. Select from a range of fighters (including Ryu, Ken, Guile, M. Bison and Chun Li) each with their own set of special moves, and defeat all of the opposition to become the King of Street Fighting. \n\nAlso included is a story mode which follows the story of the movie and uses FMV in-between fights and a Trial Battle Mode, where you take on Guile in a range of different battle events to test your skills.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Street%20Fighter%20-%20The%20Movie%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Street%20Fighter%20-%20The%20Movie%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Street Fighter - The Movie",
+          "added": 1753913537862
+        },
+        {
+          "props": {
             "uid": "b27533ff-306a-42eb-9c0e-e96bd53c667a",
             "discs": [
               "https://archive.org/download/Centuron-PSX/Street%20Fighter%20Alpha%202.bin",
@@ -82423,6 +82440,22 @@
         },
         {
           "props": {
+            "uid": "66f0ccd4-7cbf-4dc0-afc1-8d96ae84ff8b",
+            "discs": [
+              "https://gam.onl/user/psx/roms/Strider%20(USA).chd"
+            ]
+          },
+          "type": "beetle-psx",
+          "title": "Strider",
+          "description": "Strider is a modern reinterpretation of Capcom's arcade classic Strider, with some gameplay elements borrowed from the NES version. The player takes control of Strider Hiry�, a ninja-like warrior sent to the technologically advanced Kazakh City. Kazakh has been taken over by a ruthless dictator, Grandmaster Meio, and his armies of robots. Many other Striders were sent before Hiry�, never to be seen again. It's now up to Hiryu to succeed where his predecessors have failed and free the people of Kazakh City from Meio and his henchmen.  As the original, Strider is mostly an action/platform game where Hiry� must hack and slash his way through hordes of enemies. The player must use Hiry�'s climbing abilities to explore the 2.5D environments, uncovering bonuses and upgrades in the process. By progressing through the story and defeating the many bosses, Hiry� unlocks new weapons and powers, allowing him to reach new areas of Kazakh City. Contrary to his predecessors, this version of Strider is not linear and adopts a semi-open structure in the vein of the Metroid games, although a map and navigation system always indicate in which direction is the next objective.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Strider%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Strider%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Strider",
+          "added": 1753913416554
+        },
+        {
+          "props": {
             "uid": "987df6ca-6ad2-4a5c-8b9c-bdf352460193",
             "discs": [
               "https://archive.org/download/valkyrieprofile/Strider%202.PBP"
@@ -82468,6 +82501,23 @@
           "backgroundPixelated": true,
           "longTitle": "Suikoden II",
           "added": 1748704569026
+        },
+        {
+          "props": {
+            "discs": [
+              "https://gam.onl/user/psx/roms/Super%20Puzzle%20Fighter%20II%20Turbo%20(USA).chd"
+            ],
+            "sbi": [],
+            "uid": "9323c87e-c5d6-46ef-bf19-24d08d5e1df8"
+          },
+          "type": "beetle-psx",
+          "title": "Super Puzzle Fighter II Turbo",
+          "description": "A Tetris-like puzzle game featuring popular characters from many Capcom games.\n\nColored gems fall from the top of the screen in pairs, but this time lining up those of the same color is not enough. To break the gems and punish your opponent with counter gems you have to place a crash gem of the same color next to the gems. If you make a block of gems of the same color they'll fuse, forming a power gem. Breaking a power gem sends more counter gems to your opponent than breaking the same amount of gems in some other configuration. But the ultimate attack is breaking power gems in chain.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Super%20Puzzle%20Fighter%20II%20Turbo%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Super%20Puzzle%20Fighter%20II%20Turbo%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Super Puzzle Fighter II Turbo",
+          "added": 1753913359746
         },
         {
           "props": {
@@ -83299,52 +83349,19 @@
         },
         {
           "props": {
+            "uid": "b3c01c3d-f33a-4a6b-a570-26b4dda0d4fe",
             "discs": [
-              "https://gam.onl/user/psx/roms/Super%20Puzzle%20Fighter%20II%20Turbo%20(USA).chd"
-            ],
-            "sbi": [],
-            "uid": "9323c87e-c5d6-46ef-bf19-24d08d5e1df8"
-          },
-          "type": "beetle-psx",
-          "title": "Super Puzzle Fighter II Turbo",
-          "description": "A Tetris-like puzzle game featuring popular characters from many Capcom games.\n\nColored gems fall from the top of the screen in pairs, but this time lining up those of the same color is not enough. To break the gems and punish your opponent with counter gems you have to place a crash gem of the same color next to the gems. If you make a block of gems of the same color they'll fuse, forming a power gem. Breaking a power gem sends more counter gems to your opponent than breaking the same amount of gems in some other configuration. But the ultimate attack is breaking power gems in chain.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Super%20Puzzle%20Fighter%20II%20Turbo%20(Europe).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Super%20Puzzle%20Fighter%20II%20Turbo%20(Europe).png",
-          "backgroundPixelated": true,
-          "longTitle": "Super Puzzle Fighter II Turbo",
-          "added": 1753913359746
-        },
-        {
-          "props": {
-            "uid": "66f0ccd4-7cbf-4dc0-afc1-8d96ae84ff8b",
-            "discs": [
-              "https://gam.onl/user/psx/roms/Strider%20(USA).chd"
+              "https://gam.onl/user/psx/roms/Jackie%20Chan%20Stuntmaster%20(USA).chd"
             ]
           },
           "type": "beetle-psx",
-          "title": "Strider",
-          "description": "Strider is a modern reinterpretation of Capcom's arcade classic Strider, with some gameplay elements borrowed from the NES version. The player takes control of Strider Hiry�, a ninja-like warrior sent to the technologically advanced Kazakh City. Kazakh has been taken over by a ruthless dictator, Grandmaster Meio, and his armies of robots. Many other Striders were sent before Hiry�, never to be seen again. It's now up to Hiryu to succeed where his predecessors have failed and free the people of Kazakh City from Meio and his henchmen.  As the original, Strider is mostly an action/platform game where Hiry� must hack and slash his way through hordes of enemies. The player must use Hiry�'s climbing abilities to explore the 2.5D environments, uncovering bonuses and upgrades in the process. By progressing through the story and defeating the many bosses, Hiry� unlocks new weapons and powers, allowing him to reach new areas of Kazakh City. Contrary to his predecessors, this version of Strider is not linear and adopts a semi-open structure in the vein of the Metroid games, although a map and navigation system always indicate in which direction is the next objective.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Strider%20(Europe).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Strider%20(Europe).png",
+          "title": "Jackie Chan Stuntmaster",
+          "description": "Jackie's grandfather has been kidnapped. To rescue his grandfather, Jackie must find and deliver a package to the kidnappers.\n\nYou take control of Chan as he fights his way through 15 levels filled with thugs and goons. Luckily, Jackie is a Kung Fu master and has no problem with punches and kicks. You can also perform signature Jackie Chan moves like running up walls, cartwheel kicks, and even drunken Kung Fu. All of the moves are authentic, thanks to the motion-capture sessions with Jackie Chan himself.\n\nIn addition to barehanded moves, any item that is not nailed down can be used as a weapon, just like a Jackie Chan movie. Should you start to lose some life, pick up the milk, rice, and Chinese take-out scattered throughout the levels for some instant energy. Only Jackie Chan can save his grandfather.",
+          "thumbnail": "https://th.bing.com/th/id/OIP.FDRl4sX0P2p-KgimbJ5DbAHaEK?w=308&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Jackie%20Chan%20Stuntmaster%20(Europe).png",
           "backgroundPixelated": true,
-          "longTitle": "Strider",
-          "added": 1753913416554
-        },
-        {
-          "props": {
-            "uid": "a7aede63-d159-43ff-b66f-295d0ac7dea4",
-            "discs": [
-              "https://gam.onl/user/psx/roms/Street%20Fighter%20-%20The%20Movie%20(USA).chd"
-            ]
-          },
-          "type": "beetle-psx",
-          "title": "Street Fighter - The Movie",
-          "description": "Street Fighter: The Movie is a 2D beat 'em up game based on the movie of the same name, which in turn is based on the well known Capcom series, Street Fighter. Using digitized animation based on the actors and the many locations featured in the film, the same style of gameplay found in Street Fighter II and Super Street Fighter II Turbo is used here. Select from a range of fighters (including Ryu, Ken, Guile, M. Bison and Chun Li) each with their own set of special moves, and defeat all of the opposition to become the King of Street Fighting. \n\nAlso included is a story mode which follows the story of the movie and uses FMV in-between fights and a Trial Battle Mode, where you take on Guile in a range of different battle events to test your skills.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Street%20Fighter%20-%20The%20Movie%20(Europe).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Street%20Fighter%20-%20The%20Movie%20(Europe).png",
-          "backgroundPixelated": true,
-          "longTitle": "Street Fighter - The Movie",
-          "added": 1753913537862
+          "longTitle": "Jackie Chan Stuntmaster",
+          "added": 1754768091713
         }
       ]
     },
