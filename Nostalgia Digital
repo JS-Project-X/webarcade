@@ -79134,8 +79134,9 @@
           "props": {
             "uid": "2d9dc303-2f7c-410d-ac03-219c10331c6f",
             "discs": [
-              "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx/CHD-PSX-USA/Bust-A-Groove%202%20%28USA%29.chd"
-            ]
+              "https://archive.org/download/psx-chd-roms-b/Bust%20A%20Move%202%20-%20Dance%20Tengoku%20Mix%20%28Japan%29.chd"
+            ],
+            "analog": true
           },
           "type": "beetle-psx",
           "title": "Bust A Move 2 - Dance Tengoku Mix",
@@ -79149,7 +79150,7 @@
           "props": {
             "uid": "69d39166-2832-43d4-b1b7-172cf4e82d68",
             "discs": [
-              "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx/CHD-PSX-USA/Bust-A-Groove%20%28USA%29.chd"
+              "https://archive.org/download/psx-chd-roms-b/Bust-A-Groove%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
             ]
           },
           "type": "beetle-psx",
@@ -80100,6 +80101,24 @@
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Fear%20Effect%20(Europe)%20(En%2CEs%2CIt)%20(Disc%201).png",
           "backgroundPixelated": true,
           "added": 1748654827419
+        },
+        {
+          "props": {
+            "discs": [
+              "https://gam.onl/user/psx/roms/FIFA%20Soccer%202005%20(USA)%20(En,Es).chd"
+            ],
+            "sbi": [],
+            "uid": "f3c8b5f3-24b6-4773-8430-cfff21ae32a2",
+            "analog": true
+          },
+          "type": "beetle-psx",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/FIFA%20Soccer%202005%20(USA)%20(En%2CEs).png",
+          "title": "FIFA Soccer 2005",
+          "description": "Released only a few months after Euro 2004, FIFA 2005 brings several features to the franchise, such as the return of a player creation tool, where a player can be created from scratch from customizing the face (while it's not possible to define the texture like in previous EA Sports games such as NHL 2000, the player can customize the facial features such as shape of the eyes or the cheeks, in a way similar to RPGs such as Neverwinter Nights), accessories and playing abilities. It's also possible to create all kinds of competitions. \nThe Career mode was also extended, allowing now up to 15 seasons, and giving the player the chance to turn the tide of a simulated match anytime. This mode is a \"light\" managerial mode, where the player not only plays, but also signs new players and increase the clubs abilities in trainers, medical staff and other club staff).\n\nThe main gameplay change was the addition of \"First Touch\" controls. By performing one of the \"trick\" moves before the player gets possession of the ball it's possible to do a number of moves, such as touching the ball forward to gain a few yards ahead of the defenders or touch the ball to one side, and roll to the other of a rushing defender, and then pickup up the ball a bit ahead leaving the opponent stranded, and the inclusion of a fake shot move, which allows forwards to sit a goalkeeper before scoring in style or make defenders jump from their positions, opening room for a through pass or a run into goal. Other aspects of the game, such as the \"Off The Ball\" controls (allows the control of players that aren't in possession, moving them into an open position) remain unchanged.\n\nAnother new feature is the FIFA Shop, where the player can trade points earned in many ways, from simple tasks like having a peek at the Jukebox to obtaining 10 victories in a row in Career mode, for several items, such as third jerseys, additional music, more balls and night stadiums.\n\nAs it became the norm with the series, the game features 18 leagues and 38 national teams (some of these, due to licensing problems feature only generic kits and logos), summing up around 11'000 real footballers.",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/FIFA%20Soccer%202005%20(USA)%20(En%2CEs).png",
+          "backgroundPixelated": true,
+          "longTitle": "FIFA Soccer 2005",
+          "added": 1757970254966
         },
         {
           "props": {
@@ -83362,24 +83381,6 @@
           "backgroundPixelated": true,
           "longTitle": "Yu-Gi-Oh! Forbidden Memories",
           "added": 1748706016398
-        },
-        {
-          "props": {
-            "discs": [
-              "https://gam.onl/user/psx/roms/FIFA%20Soccer%202005%20(USA)%20(En,Es).chd"
-            ],
-            "sbi": [],
-            "uid": "f3c8b5f3-24b6-4773-8430-cfff21ae32a2",
-            "analog": true
-          },
-          "type": "beetle-psx",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/FIFA%20Soccer%202005%20(USA)%20(En%2CEs).png",
-          "title": "FIFA Soccer 2005",
-          "description": "Released only a few months after Euro 2004, FIFA 2005 brings several features to the franchise, such as the return of a player creation tool, where a player can be created from scratch from customizing the face (while it's not possible to define the texture like in previous EA Sports games such as NHL 2000, the player can customize the facial features such as shape of the eyes or the cheeks, in a way similar to RPGs such as Neverwinter Nights), accessories and playing abilities. It's also possible to create all kinds of competitions. \nThe Career mode was also extended, allowing now up to 15 seasons, and giving the player the chance to turn the tide of a simulated match anytime. This mode is a \"light\" managerial mode, where the player not only plays, but also signs new players and increase the clubs abilities in trainers, medical staff and other club staff).\n\nThe main gameplay change was the addition of \"First Touch\" controls. By performing one of the \"trick\" moves before the player gets possession of the ball it's possible to do a number of moves, such as touching the ball forward to gain a few yards ahead of the defenders or touch the ball to one side, and roll to the other of a rushing defender, and then pickup up the ball a bit ahead leaving the opponent stranded, and the inclusion of a fake shot move, which allows forwards to sit a goalkeeper before scoring in style or make defenders jump from their positions, opening room for a through pass or a run into goal. Other aspects of the game, such as the \"Off The Ball\" controls (allows the control of players that aren't in possession, moving them into an open position) remain unchanged.\n\nAnother new feature is the FIFA Shop, where the player can trade points earned in many ways, from simple tasks like having a peek at the Jukebox to obtaining 10 victories in a row in Career mode, for several items, such as third jerseys, additional music, more balls and night stadiums.\n\nAs it became the norm with the series, the game features 18 leagues and 38 national teams (some of these, due to licensing problems feature only generic kits and logos), summing up around 11'000 real footballers.",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/FIFA%20Soccer%202005%20(USA)%20(En%2CEs).png",
-          "backgroundPixelated": true,
-          "longTitle": "FIFA Soccer 2005",
-          "added": 1757970254966
         }
       ]
     },
