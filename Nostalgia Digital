@@ -78714,7 +78714,7 @@
           "props": {
             "uid": "c3d223dc-1590-4035-ae2d-1fa6c3f61c4f",
             "discs": [
-              "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx/CHD-PSX-USA/Alundra%20%28USA%29.chd"
+              "https://archive.org/download/psxchda/Alundra%20%28Europe%29.chd"
             ]
           },
           "type": "beetle-psx",
@@ -80862,8 +80862,7 @@
           "props": {
             "uid": "5e005c89-f9e0-4cc8-bb58-082d459d715b",
             "discs": [
-              "https://archive.org/download/Centuron-PSX/Looney%20Toons%20Sheep%20Raider%20%28USA%29.bin",
-              "https://archive.org/download/Centuron-PSX/Looney%20Toons%20Sheep%20Raider%20%28USA%29.cue"
+              "https://archive.org/download/psx-chd-roms-l/Looney%20Tunes%20-%20Sheep%20Raider%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29.chd"
             ]
           },
           "type": "beetle-psx",
@@ -80879,8 +80878,7 @@
           "props": {
             "uid": "ee79e098-9887-4ca6-af6c-113eddc93828",
             "discs": [
-              "https://archive.org/download/Centuron-PSX/Looney%20Tunes%20Racing.bin",
-              "https://archive.org/download/Centuron-PSX/Looney%20Tunes%20Racing.cue"
+              "https://archive.org/download/psx-chd-roms-l/Looney%20Tunes%20Racing%20%28USA%29%20%28En%2CFr%2CEs%29.chd"
             ]
           },
           "type": "beetle-psx",
