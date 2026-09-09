@@ -24,15 +24,16 @@
     "neogeocd_bios": "https://www.dropbox.com/scl/fi/nju5ks4hu8nhs7ydrzv9r/neocd_z.rom?rlkey=vp4lyg25wgs8wkkceaek9d1ll&dl=0",
     "saturn_bios": "https://www.dropbox.com/scl/fi/0dml3sflto141xef54s2f/Sega-Saturn-BIOS-USA.bin?rlkey=li9r06u09il75ta8v9chb1eim&dl=0",
     "apple2_bios": [
-      "https://archive.org/download/emularity_bios_v1/a2cffa02.zip/cffa20ee02.bin",
-      "https://archive.org/download/emularity_bios_v1/a2diskii.zip/341-0027-a.p5",
-      "https://archive.org/download/emularity_bios_v1/a2diskiing.zip/341-0027-a.p5"
+      "https://www.dropbox.com/scl/fi/pzlge5ph79epp16ylq67q/apple2.zip?rlkey=5875hmq7myu0atov4zgg6mcpd&dl=0",
+      "https://www.dropbox.com/scl/fi/wn1pc8mhnq0av6rzi9rhl/a2diskiing.zip?rlkey=9jhll8ltthe8053y6vg0mpufy&dl=0",
+      "https://www.dropbox.com/scl/fi/fhg6j2m3gir4g9fn9wp96/apple2e.zip?rlkey=9w47wwrh0ld0n9qbmkbi90hmj&dl=0"
     ],
     "overrides": {
       "3do": "retro-opera",
       "arcade": "fbneo-arcade",
       "apple2": "retro-mame-apple2"
-    }
+    },
+    "fds_bios": "https://www.dropbox.com/scl/fi/f3oum9jajawfnc9mpw3p8/disksys.rom?rlkey=31zmiezs1mt282n1oir1lp3um&dl=0"
   },
   "categories": [
     {
@@ -97603,6 +97604,45 @@
           "added": 1788811745736
         },
         {
+          "title": "Freedom Wings",
+          "longTitle": "Freedom Wings",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Freedom%20Wings.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Freedom%20Wings.png",
+          "description": "As a man living in the island cities of Sorgele, air pirates loom over the population. They shot down your parents and you are out to avenge their deaths and kill the pirate responsible.\r\n\r\nThis game is an action flight sim with a twist - it also has RPG elements. Each enemy plane you shoot down earns your experience points and gold, which unlocks better parts and planes for you to buy. Occasionally during flight you receive mayday calls from other planes under attack - if you are able to save them you can meet them back at the nearest airfield for a reward.\r\n\r\nIf the action is too much for you to handle, it has an autopilot mode which allows you to select targets and waypoints via the touchscreen. There is also a 4 player multicard mode where you can go head to head with friends.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Freedom%20Wings.zip"
+          },
+          "added": 1788984639475
+        },
+        {
+          "title": "Gardening Mama",
+          "longTitle": "Gardening Mama",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Gardening%20Mama.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Gardening%20Mama.png",
+          "description": "Join Mama from the award-winning, multi-million selling Cooking Mama franchise as she grows, nurtures and harvests fruits, vegetables and flowers in the first ever gardening game for DS!Gardening Mama transforms the DS stylus into a universal gardening tool that players will use to plant, nurture and harvest flowers, fruits and vegetables. Gamers can manage their garden through the seeding, blooming and maturation phases, and then produce items from the plants they’ve grown. A robust multiplayer mode lets up to four friends compete to grow the biggest harvest and Treasure Box mode lets players share items they’ve grown with friends. Gamers can even customize Mama!\r\n\r\nGameplay in Gardening Mama is very similar to Cooking Mama gameplay--use the stylus as your master garden tool to nuture 35 different flowers, fruit trees and vegetables. Plant, water, fertilize, prune, eliminate pests and then harvest what you’ve grown!\r\nGrowing live products means that you may experience unexpected results based on your care—flowers can bloom different colors, fruit trees can grow different fruits, etc.\r\nMultiple modes of play include:\r\noLet’s Get Growing!—Grow a variety of flowers, fruits and vegetables in your various gardens. Manage your gardens as they seed, bloom, bear fruit and mature.\r\n\r\noDecorate the Garden!—Decorate your flower garden with various fences, pots, flowers and more by earning bonuses to unlock new decorations.\r\n\r\noMake it Fancy! —Dress up Mama by changing her outfits, glasses, hair and accessories with unlocked bonuses.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Gardening%20Mama.zip"
+          },
+          "added": 1788984714841
+        },
+        {
+          "title": "Garfield's Nightmare",
+          "longTitle": "Garfield's Nightmare",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Garfield's%20Nightmare.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Garfield's%20Nightmare.png",
+          "description": "Garfield came up with the crazy idea to combine breakfast, lunch and dinner to have more time for his other activities. He crammed a couple of pizzas, some lasagnes and two bags of jelly donuts into one big sandwich. It seems this may have been a little too much… As he slowly falling asleep and his nightmare begins...\r\n\r\nGarfield suddenly wakes up in a haunted castle – this is not the real world but a strange dream world populated by the monsters of Garfield's sub-conscious. Although Garfield loves sleeping, this horrible dream has to end as soon as possible! Unfortunately Garfield smashed his little alarm clock in the real world and now his only chance at waking up soon depends on his ability to find the shattered pieces and put them back together. Help him to wake him up from this frightful nightmare!\r\n\r\nGarfield's nightmare is a traditional 3D platform-puzzle game and utilizes the DS hardware graphic capacity. Players will get a chance to live one of the lives of their favorite feline in an astonishing, mind-blowing environment filled with ghosts, spiders, glaciers and fireballs.\r\n\r\nEach level will lead Garfield to engage in a final battle that will transform his nightmare into a dream. Bosses will need to be terminated during these timeless fights, gradually enhancing the difficulty level.\r\n\r\nFeatures\r\n\r\n• Play through 16 challenging levels to find each of the four alarm clock pieces!• The levels are placed in 4 different, thematic worlds: Haunted Castle, Cloudy Realm, Lava World and Winter Wonderland.• Each piece is guarded by the tough boss of the dream world who must be conquered in order to progress.• Each level contains a hidden minigame utilising the Nintendo touch screen. Beat the minigame to unlock secret chests.• Help Garfield maintain his energy level by collecting lots of tasty food throughout the game including donuts and, of course, lasagne.• All scenes and characters are presented in 3D, combining classic jump’n’run gameplay with outstanding visuals.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Garfield%27s%20Nightmare.zip"
+          },
+          "added": 1788984724961
+        },
+        {
           "title": "Golden Sun: Dark Dawn",
           "longTitle": "Golden Sun: Dark Dawn",
           "type": "nds",
@@ -97664,19 +97704,6 @@
           "backgroundPixelated": true,
           "props": {
             "rom": "https://archive.org/download/ultimate-rom-collection/Nintendo%20-%20DS.zip/Kirby%20Super%20Star%20Ultra%20%28USA%29.zip"
-          },
-          "added": 1788811745737
-        },
-        {
-          "title": "Kirby: Canvas Curse",
-          "longTitle": "Kirby: Canvas Curse",
-          "type": "nds",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Kirby_%20Canvas%20Curse.png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Kirby_%20Canvas%20Curse.png",
-          "description": "Your DS stylus has been infused with the power to paint! When Kirby gets turned into a ball by an evil witch, your hand-drawn rainbow paths become the only way he can find power-ups and reach the gates of each world. Draw loops to make him speed up, make ramps to jump danger, and draw walls to block laser beams and cannon blasts as you explore seven worlds packed with adventure! Get in touch: Stun enemies, break blocks, and much more - all with a touch of the stylus! Be a copycat: Tap Kirby to dash into enemies and copy their abilities. Eleven abilities in all! So many modes: Try timed challenges, take on bosses, or play simple but fun mini-games!  Released in Europe on November 25, 2005 as Kirby: Power Paintbrush.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/ultimate-rom-collection/Nintendo%20-%20DS.zip/Kirby%20-%20Canvas%20Curse%20%28USA%29.zip"
           },
           "added": 1788811745737
         },
@@ -98160,6 +98187,422 @@
             "rom": "https://archive.org/download/ultimate-rom-collection/Nintendo%20-%20DS.zip/WarioWare%20-%20D.I.Y.%20%28USA%29.zip"
           },
           "added": 1788811745746
+        },
+        {
+          "title": "Kirby: Canvas Curse",
+          "longTitle": "Kirby: Canvas Curse",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Kirby_%20Canvas%20Curse.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Kirby_%20Canvas%20Curse.png",
+          "description": "Your DS stylus has been infused with the power to paint! When Kirby gets turned into a ball by an evil witch, your hand-drawn rainbow paths become the only way he can find power-ups and reach the gates of each world. Draw loops to make him speed up, make ramps to jump danger, and draw walls to block laser beams and cannon blasts as you explore seven worlds packed with adventure! Get in touch: Stun enemies, break blocks, and much more - all with a touch of the stylus! Be a copycat: Tap Kirby to dash into enemies and copy their abilities. Eleven abilities in all! So many modes: Try timed challenges, take on bosses, or play simple but fun mini-games!  Released in Europe on November 25, 2005 as Kirby: Power Paintbrush.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Kirby%20-%20Canvas%20Curse.zip"
+          },
+          "added": 1788984947692
+        },
+        {
+          "title": "Konami Classics Series: Arcade Hits",
+          "longTitle": "Konami Classics Series: Arcade Hits",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Konami%20Classics%20Series_%20Arcade%20Hits.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Konami%20Classics%20Series_%20Arcade%20Hits.png",
+          "description": "Konami Classics Series Arcade Hits is a compilation of 15 games from the early days of Konami.\r\n\r\nThe games included in this compilation are:\r\n\r\n•   Gradius\r\n•   Rush'n Attack\r\n•   Contra\r\n•   Scramble\r\n•   Horror Maze\r\n•   Pooyan\r\n•   Time Pilot\r\n•   Roc'n Rope\r\n•   Track and Field\r\n•   Circus Charlie\r\n•   Basketball\r\n•   Road Fighter\r\n•   Yie Ar KUNG-FU\r\n•   Rainbow Bell\r\n•   Shao-Lin's Road",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Konami%20Classics%20Series%20-%20Arcade%20Hits.zip"
+          },
+          "added": 1788984957624
+        },
+        {
+          "title": "Mario Party DS",
+          "longTitle": "Mario Party DS",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Mario%20Party%20DS.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Mario%20Party%20DS.png",
+          "description": "He's captured Mario and his friends in his pursuit of a crystal that the group collected when it fell from the sky, and he doesn't hesitate to shrink them to miniature size to get rid of them and get his hands on the other four crystals. The mini-heroes have to find the crystals before he does, making their way through giant environments filled with enormous creatures. The single-player campaign takes place in five different settings, each of them ending with a boss. As usual, players have to collect coins and stars, at the same time escaping dangers such as Piranha Plants and other classic creatures from the Mario universe.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Mario%20Party%20DS.zip"
+          },
+          "added": 1788985018529
+        },
+        {
+          "title": "Mega Man Zero Collection",
+          "longTitle": "Mega Man Zero Collection",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Mega%20Man%20Zero%20Collection.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Mega%20Man%20Zero%20Collection.png",
+          "description": "The Mega Man Zero series is comprised of all four Mega Man Zero titles previously released on the GameBoy Advance onto one cartridge for the Nintendo DS. In the tradition of most Mega Man games, the Mega Man Zero Collection is a fast-paced, 2D action side-scrolling platform game. For the first time, it will be available for Nintendo DS complete with all new modes.\r\n\r\nFirst launched on the GameBoy Advance in 2002, the Mega Man Zero series follows Zero, originally introduced in Mega Man X. Players will be able to use Zero’s arsenal of weapons which include his Z-Saber and Buster Shot. Also adding new flavor to the series are the additions of devices such as the Chain Rod and Zero Knuckle, giving Zero the advantage.\r\n\r\nThe series begins with our hero waking up 100 years after the events of Mega Man X. Zero finds himself in a world where innocent reploids (robots) are being hunted down by the government of “Neo Arcadia.” A resistance group finds our hero and asks Zero to fight alongside them against the evil regime. The series follows Zero on his adventures as he battles the government of Neo Arcadia and his fight for peace!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Mega%20Man%20Zero%20Collection.zip"
+          },
+          "added": 1788985051542
+        },
+        {
+          "title": "Mega Man ZX",
+          "longTitle": "Mega Man ZX",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Mega%20Man%20ZX.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Mega%20Man%20ZX.png",
+          "description": "Mega Man ZX continues the incredible Mega Man X saga! It's been years since the wars between humans and Reploids. They now coexist peacefully, with humans using new Biometal technology to give them Reploid-like powers and Reploids giving up their immortality. When a mysterious group attacks three couriers delivering Model X and Model Z Biometals, they respond by fusing themselves with the Biometals, creating Model ZX! With powerful abilities at their disposal, they must discover who their enemies are and what they are after.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Mega%20Man%20ZX.zip"
+          },
+          "added": 1788985081753
+        },
+        {
+          "title": "Mega Man ZX: Advent",
+          "longTitle": "Mega Man ZX: Advent",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Mega%20Man%20ZX_%20Advent.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Mega%20Man%20ZX_%20Advent.png",
+          "description": "Choose between two mega metal heroes, Grey or Ashe! Each Mega Man follows a unique and exciting adventure that is linked with the other hero’s. This Mega Man series deliver twice the action! High-intensity action and bold, new gameplay elements make Mega Man ZX Advent the definitive Mega Man experience! \r\n\r\nFeaturing Co-Op and Head-To-Head two player wireless play, dynamic \"Biometal\" system allowing players to transform into 14 different battle forms, two playable characters, Grey and Ashe, each with unique abilities and individual, but linked storylines, and Area Expansion - explore and open up new areas with access to additional quests",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Mega%20Man%20ZX%20Advent.zip"
+          },
+          "added": 1788985126467
+        },
+        {
+          "title": "Metal Slug 7",
+          "longTitle": "Metal Slug 7",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Metal%20Slug%207.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Metal%20Slug%207.png",
+          "description": "The Peregrine Falcon Strike Force, the Ikari Warriors, and the SPARROWS are once again on a search for General Morden and his army. Their mission is to catch General Morden and prevent his attempts at another coup d'état on the government. However, as soon as Morden was defeated, a strange army from the future came to his aid. Now, they must face Morden once again and this time, put a stop to his plans once and for all.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Metal%20Slug%207.zip"
+          },
+          "added": 1788985142366
+        },
+        {
+          "title": "Naruto Shippuden: Naruto vs Sasuke",
+          "longTitle": "Naruto Shippuden: Naruto vs Sasuke",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Naruto%20Shippuden_%20Naruto%20vs%20Sasuke.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Naruto%20Shippuden_%20Naruto%20vs%20Sasuke.png",
+          "description": "Naruto Shippūden: Naruto vs. Sasuke is the sixth instalment of the Ninja Council series.\r\n\r\nIt incorporates several tag-team specials. The character's sprites are smaller, allowing more action on-screen. Most of the special moves no longer use touch screen in order to be performed. Touch screen controls perform certain techniques. New characters include Sasuke and Sai. The on-line play has been removed, although there is a High Score mode available. There are also side-missions which can be completed to unlock more characters. Unlike the previous games, villains are not playable.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Naruto%20Shippuden%20-%20Naruto%20vs.%20Sasuke.zip"
+          },
+          "added": 1788985306383
+        },
+        {
+          "title": "Naruto Shippuden: Ninja Destiny 2",
+          "longTitle": "Naruto Shippuden: Ninja Destiny 2",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Naruto%20Shippuden_%20Ninja%20Destiny%202.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Naruto%20Shippuden_%20Ninja%20Destiny%202.png",
+          "description": "Naruto Shippuden: Ninja Destiny 2 features fast paced Naruto Shippuden 3D fighting action with the addition of an all-new Quest Mode, new characters, jutsu and a storyline based on the Naruto Shippuden animated series. The title also features wireless multiplayer gameplay, offering Naruto fans and newcomers to the series competitive 3D fighting on the Nintendo DS.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Naruto%20Shippuden%20-%20Ninja%20Destiny%202.zip"
+          },
+          "added": 1788985306383
+        },
+        {
+          "title": "Naruto Shippuden: Shinobi Rumble!!",
+          "longTitle": "Naruto Shippuden: Shinobi Rumble!!",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Naruto%20Shippuden_%20Shinobi%20Rumble!!.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Naruto%20Shippuden_%20Shinobi%20Rumble!!.png",
+          "description": "In Naruto Shippuden: Shinobi Rumble, fight as Naruto, Sasuke, and your other favorite characters using an exciting, easy-to-learn battle system full of acrobatics and ground-shaking combos.\r\n\r\nIn addition to a personal story mode for each of the game's 16 fighters, nearly two dozen overarching story fights, an assortment of secret missions, and a wealth of unlockable content offer tremendous variety, replay value, and fun! The ultimate portable NARUTO fighting game has arrived.\r\n\r\nNaruto Shippuden: Shinobi Rumble is the fifth instalment of the Ninja Council series on the Nintendo DS.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Naruto%20Shippuden%20-%20Shinobi%20Rumble%21%21.zip"
+          },
+          "added": 1788985306383
+        },
+        {
+          "title": "Naruto: Ninja Destiny",
+          "longTitle": "Naruto: Ninja Destiny",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Naruto_%20Ninja%20Destiny.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Naruto_%20Ninja%20Destiny.png",
+          "description": "Punch, kick and dodge your way into this 3D Nintendo game. Naruto: Ninja Destiny picks up in the Chunin Arc of the popular anime series. In this game, Naruto now started training under Jiraiya to refine his skills as a chunnin, while Sasuke went under the tutelage of Kakashi.\r\n\r\nStart things off between Naruto Versus Neiji in a one on one match. Defeat this prodigy of the Hyuga clan and be one step closer to your dreams of being a Hokage! If you like fighting games and anime, this game is right up your alley. Each fight contains 2 rounds as you control 1 of the ninjas in Naruto’s list of unforgettable characters. Break your opponent’s combo by using projectiles such as Kunai and Shurikens. In the thick of the battle, you can also use life power-ups to turn the fight in your favor. The game features Smooth textures, engaging background music, and sound effects that will have your chakra pumping. Fight with 16 different playable characters in Village of Hidden Leaves and follow one of the thrilling chapters in the Naruto Saga. Matches are followed by crawling texts and character quotes, so you do not have to miss a second of the story. Save your progress and continue where you left off. Fulfill your destiny as Konoha’s number one ninja in Naruto: Ninja Destiny!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Naruto%20-%20Ninja%20Destiny.zip"
+          },
+          "added": 1788985306384
+        },
+        {
+          "title": "Need for Speed Carbon: Own the City",
+          "longTitle": "Need for Speed Carbon: Own the City",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Need%20for%20Speed%20Carbon_%20Own%20the%20City.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Need%20for%20Speed%20Carbon_%20Own%20the%20City.png",
+          "description": "The Nintendo DS receives its version of Need for Speed: Carbon with Own the City, a The Fast and the Furious-themed arcade racer in which you take the role of a novice street racer out to avenge the seemingly accidental death of your older brother. With the aid of his ex-girlfriend and a few friends you'll have to take on all the racing crews of the city to get your answers, who'll only answer to you once you beat them in racing duels.\r\n\r\nWinning also allows you to cash in points for new cars, upgrades and racing kits, which become essential for getting the edge over the competition. You can race alone with the aid of your NPC wingmen and uncover the plot behind your brother's murder or race vs multiple opponents via Nintendo Wifi to see who's king of the streets in a variety of racing modes.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Need%20for%20Speed%20Carbon%20-%20Own%20the%20City.zip"
+          },
+          "added": 1788985306384
+        },
+        {
+          "title": "Need for Speed: ProStreet",
+          "longTitle": "Need for Speed: ProStreet",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Need%20for%20Speed_%20ProStreet.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Need%20for%20Speed_%20ProStreet.png",
+          "description": "Street culture and ultra-fast vehicles collide!\r\n\r\nIn Need for Speed ProStreet, you have to build the ultimate battle machine, take it to multi-disciplinary showdowns, and put your skills and reputation against the world's best street racers. This is your chance to prove that you have what it takes to be crowned the next street king.\r\n\r\nIn addition to the game's four race modes, the Nintendo DS adaptation includes a rhythm mini-game where players must show off their car's hydraulics system by tapping buttons to the beat of a song. The game features a multiplayer mode that allows up to eight players to compete against each other via a single-cartridge Download Play session or a multi-cartridge Wireless LAN connection.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Need%20for%20Speed%20-%20ProStreet.zip"
+          },
+          "added": 1788985306384
+        },
+        {
+          "title": "Phantasy Star 0",
+          "longTitle": "Phantasy Star 0",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Phantasy%20Star%200.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Phantasy%20Star%200.png",
+          "description": "Phantasy Star Zero takes place on an alternate Earth 200 years after the Great Blank, a massive war that has reduced the once-prosperous civilization to almost nothing. The sole surviving Humans have worked hard to exist peacefully and have built thriving Cities. The Humans that adventure past the outskirts of these Cities, called Hunters, explore the vast wilderness and hunt dangerous monsters to keep Cities safe. Players will take up the role of Hunters and select from three types of races and different classes, as well as gender for a total of 14 customizable character types. Each character type will play very differently and give players access to a great range of items, armor and weapons. Featuring over 350 unique weapons, gamers will venture out on Earth, combat dangerous monsters to gain experience and meet new major characters. As players explore further, they will unravel the mystery of the Great Blank and discover a dangerous new force that must be stopped.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Phantasy%20Star%200.zip"
+          },
+          "added": 1788985720881
+        },
+        {
+          "title": "Puyo Pop Fever",
+          "longTitle": "Puyo Pop Fever",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Puyo%20Pop%20Fever.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Puyo%20Pop%20Fever.png",
+          "description": "Accord, teacher of the local magic school, has lost her magic flying cane. There is word of an award so the students are busy searching high and low for it. Naturally, our heroes Amitie and her school nemesis Raffine make their way toward the distant dark castle, challenging - and being challenged by - everyone you come across in a game of Puyo Pop.\r\n\r\nPuyo Pop Fever is a puzzle game of the falling-block variety, the goal of which is to clear your blocks (Puyos) by combining four or more of the same color, which will then vanish. This will produce Nuisance Puyos. These colorless Puyos will fall onto your opponents screen, thus blocking chains and combos they could create. These pesky Puyos can only be exterminated by removing neighboring Puyos.\r\n\r\nWhen an opponent sends Nuisance Puyos to your screen you can try to \"offset\" by clearing your own Puyos and limiting the number that would fall on your screen. This will also increase your Fever Meter. When this meter fills you will be given a set of prearranged Puyos with which you can wrack up giant combos and send tons of Nuisance Puyos to your opponent. When any player's field becomes so full that they can no longer drop Puyos they lose the game.\r\n\r\nThe game features a two-player mode. Some versions allow for more people such as the DS version which allows up to eight players to compete in free-for-all or team modes.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Puyo%20Pop%20Fever.zip"
+          },
+          "added": 1788986084345
+        },
+        {
+          "title": "Ragnarok DS",
+          "longTitle": "Ragnarok DS",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Ragnarok%20DS.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Ragnarok%20DS.png",
+          "description": "Throughout the world, the people of the major powers throughout the land live in peace and prosperity, unaware that a great evil lurks on the horizon. There is a clandestine group, under the guise of scholarly research, plotting to resurrect a goddess whose time has long since passed. To achieve this goal, they need two things; a vessel of flesh and blood to house the spirit of the goddess, and the lives of every living being offered up as a sacrifice. It is against the backdrop of this coming chaos that Ares, an orphan from a small, forgotten village, sets out to seek his fortune as an adventurer. At the start of his journey, he encounters a beautiful young girl with mysterious powers named Shiera, who has not only lost her memories about herself, but also of the world around her. Together, they embark on an adventure that will ultimately decide the fate of the entire world. Ragnarok Online, the international massively multiplayer online (MMO) phenomenon, now comes to the Nintendo DS. With over three million registered users in North America, Ragnarok DS brings the same addictive game play of exploration and customization to a handheld platform, giving the huge number of online PC players the next best thing when they are unable to log into their regular Ragnarok Online account from a computer.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Ragnarok%20DS.zip"
+          },
+          "added": 1788986084345
+        },
+        {
+          "title": "Rayman DS",
+          "longTitle": "Rayman DS",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Rayman%20DS.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Rayman%20DS.png",
+          "description": "The character with no arms and no legs makes his debut on the Nintendo DS. Rayman must defeat the pirates who have enslaved his world. As Rayman, you'll travel through magical worlds where you can explore waterfalls, sea caves, and pirate hideouts. Master Rayman's special moves to progress through each challenging level. The DS's bottom screen let you monitor your progress, track your lums, and keep an eye on Rayman's health.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Rayman%20DS.zip"
+          },
+          "added": 1788986084345
+        },
+        {
+          "title": "Rayman: Raving Rabbids",
+          "longTitle": "Rayman: Raving Rabbids",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Rayman_%20Raving%20Rabbids.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Rayman_%20Raving%20Rabbids.png",
+          "description": "Rayman Raving Rabbids marks the return of the iconic video-game hero, Rayman, in his funniest and zaniest adventure ever. When the world of Rayman is threatened by a devastating invasion of crazed, out-of-control bunnies Rayman must rise up against his furry foes to foil their wicked plans. Utilizing an array of amazing new abilities, and with the help of magical creatures, Rayman must break out all the moves to save his world from these delirious bunnies and their hare-raising antics.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Rayman%20Raving%20Rabbids.zip"
+          },
+          "added": 1788986084346
+        },
+        {
+          "title": "Rayman: Raving Rabbids 2",
+          "longTitle": "Rayman: Raving Rabbids 2",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Rayman_%20Raving%20Rabbids%202.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Rayman_%20Raving%20Rabbids%202.png",
+          "description": "They've invaded the world of Rayman, and now the insane Rabbids have a new objective: invade planet Earth! They have established their base at a shopping mall and begun training for their nastiest scheme yet. As part of this training, the Rabbids must carry out several missions around the globe to help them in an attempt to dominate the world. The Rabbids will also try to study human behavior by mimicking everything we do... but in the Rabbid sort of way, with no logic... of course.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Rayman%20Raving%20Rabbids%202.zip"
+          },
+          "added": 1788986084346
+        },
+        {
+          "title": "Resident Evil: Deadly Silence",
+          "longTitle": "Resident Evil: Deadly Silence",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Resident%20Evil_%20Deadly%20Silence.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Resident%20Evil_%20Deadly%20Silence.png",
+          "description": "Resident Evil: Deadly Silence is an enhanced version of the original Resident Evil, a survival horror video game developed and released by Capcom originally for the PlayStation in 1996.\r\n\r\nThe game introduces Resident Evil series mainstays Chris Redfield and Jill Valentine as members of an elite task force known as S.T.A.R.S. (Special Tactics and Rescue Service). At the start of the game, players select one of the two as they investigate the disappearance of their fellow team members on the outskirts of Raccoon City, and become trapped in an old mansion infested with zombies and other monsters. As players explore this mysterious place, they uncover clues and solve puzzles. Depending on the player's actions, the game ends with different outcomes.\r\n\r\nThere are many new features added into Deadly Silence, including \"Knife Battle\" sequences in which the player must stab enemies in the face by swinging the knife via the stylus. The player can also shake off enemies by using touch screen and stab a zombie.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Resident%20Evil%20-%20Deadly%20Silence.zip"
+          },
+          "added": 1788986084346
+        },
+        {
+          "title": "Rhapsody: A Musical Adventure",
+          "longTitle": "Rhapsody: A Musical Adventure",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Rhapsody_%20A%20Musical%20Adventure.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Rhapsody_%20A%20Musical%20Adventure.png",
+          "description": "Originally released in 2000, Rhapsody: A Musical Adventure is a musical RPG that has musical numbers, complete with vocals. The game has a wide appeal thanks to its simple game style and clean anime art. Players will take on the role of Cornet, who can talk to puppets and has a magical horn that grants wishes. She must save Prince Ferdinand, who has been turned into stone by an evil witch.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Rhapsody%20-%20A%20Musical%20Adventure.zip"
+          },
+          "added": 1788986084346
+        },
+        {
+          "title": "Sonic & SEGA All-Stars Racing",
+          "longTitle": "Sonic & SEGA All-Stars Racing",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Sonic%20%26%20SEGA%20All-Stars%20Racing.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Sonic%20%26%20SEGA%20All-Stars%20Racing.png",
+          "description": "Sonic & Sega All-Stars Racing is a kart racing video game, part of the Sega Superstars series, featuring characters from Sega franchises.\r\n\r\nCharacters race through various race circuits themed on different Sega franchises and collect power-ups to boost their speed or hamper their opponents. The items have a rock-paper-scissors effect, in which certain items can be used to defend against others. \r\n\r\nLike Sumo's previous Sega game, Sega Superstars Tennis, each character has a special ability (called an \"All-Star Move\") unique to them that they may use to their advantage (such as Sonic transforming into Super Sonic and AiAi riding in his monkey ball), which they can obtain if they are running behind in the race.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Sonic%20%26%20Sega%20All-Stars%20Racing.zip"
+          },
+          "added": 1788986118626
+        },
+        {
+          "title": "Sonic Chronicles: The Dark Brotherhood",
+          "longTitle": "Sonic Chronicles: The Dark Brotherhood",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Sonic%20Chronicles_%20The%20Dark%20Brotherhood.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Sonic%20Chronicles_%20The%20Dark%20Brotherhood.png",
+          "description": "The game initially focuses on the events surrounding the kidnapping of Knuckles and the disappearance of the Chaos Emeralds after the defeat of Doctor Eggman, before moving on to follow the cast of characters across two dimensions as they encounter a new ally, Shade the Echidna, and seek to stop the invasion of their world by Ix, the leader of Shade's tribe, the Nocturnus.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Sonic%20Chronicles%20-%20The%20Dark%20Brotherhood.zip"
+          },
+          "added": 1788986142260
+        },
+        {
+          "title": "Sonic Colors",
+          "longTitle": "Sonic Colors",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Sonic%20Colors.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Sonic%20Colors.png",
+          "description": "An extraordinary amusement park has been seen orbiting around the home planet of Sonic the Hedgehog, and rumors are spreading that an alien race of Wisps, who have a unique colorful energy, are being held captive there by the evil Dr. Eggman. Soon after arriving at the amusement park, Sonic discovers he is able to use these mysterious alien forces to help the Wisps escape!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Sonic%20Colors.zip"
+          },
+          "added": 1788986160724
+        },
+        {
+          "title": "Spider-Man 3",
+          "longTitle": "Spider-Man 3",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Spider-Man%203.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Spider-Man%203.png",
+          "description": "Spider-Man 3 allows players to experience the actions of heroic red suit Spider-Man, and for the first time ever, his darker, more mysterious black suit persona. Set in a 3D side scrolling world and delivering complete touch screen handling, players must draw upon Spider-Man's vast array of moves, attacks and upgrades as they choose their path and embark on a wide variety of city-based missions and multiple movie-based and original story arcs. Additionally, Spider-Man 3 for the Nintendo DS features local wireless multiplayer gameplay featuring with a variety of modes enabling awesome two-player head-to-head challenges like Brawler, Hot Potato, Target Practice, and Combo Challenge.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Spider-Man%203.zip"
+          },
+          "added": 1788986178806
+        },
+        {
+          "title": "The Legend of Spyro: A New Beginning",
+          "longTitle": "The Legend of Spyro: A New Beginning",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/The%20Legend%20of%20Spyro_%20A%20New%20Beginning.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/The%20Legend%20of%20Spyro_%20A%20New%20Beginning.png",
+          "description": "The Legend of Spyro: A New Beginning explores the true origins of Spyro as you embark on a dangerous, combat-driven quest that will bring you face to face with the Dark Master's ultimate creation, Cynder. Experience the true power of the purple dragon as you unleash devastating fury attacks, upgradeable breaths and ground to aerial melee combos in a frenzied battle with hordes of menacing enemies and bone-chilling bosses. It's an epic and cinematic gameplay experience.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Legend%20of%20Spyro%2C%20The%20-%20A%20New%20Beginning.zip"
+          },
+          "added": 1788986198912
+        },
+        {
+          "title": "The Legend of Spyro: Dawn of the Dragon",
+          "longTitle": "The Legend of Spyro: Dawn of the Dragon",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/The%20Legend%20of%20Spyro_%20Dawn%20of%20the%20Dragon.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/The%20Legend%20of%20Spyro_%20Dawn%20of%20the%20Dragon.png",
+          "description": "Free from his imprisonment, the Dark Master unleashes his wrath upon the world, determined to bring forth a new age of darkness. As evil spreads over the world like a plague, Spyro must discover abilities beyond that of the elements and unlock the true power of the purple dragon within him if he is to stop the Dark Master and fulfill his destiny.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Legend%20of%20Spyro%2C%20The%20-%20Dawn%20of%20the%20Dragon.zip"
+          },
+          "added": 1788986218227
+        },
+        {
+          "title": "Valkyrie Profile: Covenant of the Plume",
+          "longTitle": "Valkyrie Profile: Covenant of the Plume",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Valkyrie%20Profile_%20Covenant%20of%20the%20Plume.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Valkyrie%20Profile_%20Covenant%20of%20the%20Plume.png",
+          "description": "The origins of a cult classic are revealed in VALKYRIE PROFILE: Covenant of the Plume, the third entry in the critically acclaimed VALKYRIE PROFILE series. Development studio tri-Ace returns to craft a gameplay experience that boasts a captivating storyline with ties to Norse mythology and a familiar yet refreshing battle system enhanced with deeper strategic elements.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Valkyrie%20Profile%20-%20Covenant%20of%20the%20Plume.zip"
+          },
+          "added": 1788986236534
+        },
+        {
+          "title": "Ultimate Mortal Kombat",
+          "longTitle": "Ultimate Mortal Kombat",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Ultimate%20Mortal%20Kombat.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Ultimate%20Mortal%20Kombat.png",
+          "description": "Ultimate Mortal Kombat combines the visceral thrills of the classic \"Ultimate Mortal Kombat 3\" and the addictive puzzle action of the Puzzle Kombat component of Midway's best-selling \"Mortal Kombat: Deception\" in a single DS-friendly package. With new record-keeping capability, and Nintendo Wi-Fi Connection multiplayer, players can take UMK anywhere for fighting action on the go.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Ultimate%20Mortal%20Kombat.zip"
+          },
+          "added": 1788986252733
+        },
+        {
+          "title": "Yoshi's Island DS",
+          "longTitle": "Yoshi's Island DS",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Yoshi's%20Island%20DS.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Yoshi's%20Island%20DS.png",
+          "description": "Return to the colorful wilds of Yoshi's Island in a new platforming adventure. A mysterious floating island has suddenly appeared over peaceful Yoshi’s Island. Soon after its arrival, a gaggle of kids vanishes from the island school. Thankfully, Baby Mario, Baby Peach and Baby Donkey Kong manage to avoid being kidnapped. Now, Yoshi and the three young superstars must set out on a wild and colorful quest to rescue the kids and investigate the ominous island hovering overhead.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Yoshi%27s%20Island%20DS.zip"
+          },
+          "added": 1788986264320
+        },
+        {
+          "title": "Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus",
+          "longTitle": "Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Yu-Gi-Oh!%205D's%20World%20Championship%202011_%20Over%20the%20Nexus.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Yu-Gi-Oh!%205D's%20World%20Championship%202011_%20Over%20the%20Nexus.png",
+          "description": "Yu-Gi-Oh! 5D's World Championship 2011: Over The Nexus is based on the Yu-Gi-Oh! 5D's TV series and is also the official video game of the Yu-Gi-Oh! World Championship in 2011.\r\n\r\nYu-Gi-Oh! 5D's World Championship 2011: Over The Nexus features over 4200 cards for use in the game, and includes the new 'Storm of Ragnarok' booster and the 'Lost Sanctuary' structure deck. The game's one-player story mode uses characters and situations from the TV show, and the in-game presentation has been streamlined with all-new dual-screen presentation to offer more information at a glance, while a new Duel Puzzle Editor allows users to create dueling situations that can be shared with duelists all over the world via Wi-Fi.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Yu-Gi-Oh%21%205D%27s%20World%20Championship%202011%20-%20Over%20the%20Nexus.zip"
+          },
+          "added": 1788986295388
+        },
+        {
+          "title": "Viewtiful Joe: Double Trouble!",
+          "longTitle": "Viewtiful Joe: Double Trouble!",
+          "type": "nds",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Viewtiful%20Joe_%20Double%20Trouble!.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Viewtiful%20Joe_%20Double%20Trouble!.png",
+          "description": "You can play a movie action hero turned real action hero in Viewtiful Joe: Double Trouble. Viewtiful Joe: Double Trouble is a cel-shaded, side-scrolling action game that combines both puzzle-solving and platformer gameplay. Viewtiful Joe: Double Trouble makes use of both screens and the touch capabilities of the Nintendo DS to help you solve puzzles and progress through the game. Joe's sister, Jasmine, also makes her first appearance in the series to help him out.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nds-collection/Viewtiful%20Joe%20-%20Double%20Trouble%21.zip"
+          },
+          "added": 1788986308538
         }
       ]
     },
@@ -100697,6 +101140,494 @@
       ],
       "thumbnail": "https://archive.org/download/image_20260510_1940/141414%20pokem%20min%20thumbnail.png",
       "background": "https://archive.org/download/image_20260510_1940/141414%20pokemon%20mini%20art%207800.png"
+    },
+    {
+      "title": "Famicom Disk",
+      "longTitle": "Famicom Disk",
+      "description": "O Family Computer Disk System, comumente encurtado para Famicom Disk System, e abreviado como FDS ou FCD é um dos sistemas utilizados pela Nintendo. Consiste no uso de disquetes como mídia para armazenamento de jogos. Este acessório era utilizado no Family Computer",
+      "items": [
+        {
+          "title": "Akumajou Dracula (Japan) (En) (1.0)",
+          "longTitle": "Akumajou Dracula (Japan) (En) (1.0)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Akumajou%20Dracula%20(World)%20(Ja)%20(Castlevania%20Anniversary%20Collection).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Akumajou%20Dracula%20(World)%20(Ja)%20(Castlevania%20Anniversary%20Collection).png",
+          "description": "If you think it's scary on the outside, wait'll you see the basement! You're in for the longest night of your life. Ghosts, goblins, demons, wolves, bats - creatures lurking around every corner. As you descend deeper and deeper, they get thicker and thicker. Better stick close to the cavern floor - it's your only chance of finding a weapon or two. You're gonna need 'em. Because when you finally meet the Count, you know he'll be going for the jugular. So keep your courage up and your stake sharp. And say your prayers!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Translations%2FAkumajou%20Dracula.zip"
+          },
+          "added": 1788984414192
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Baseball.zip"
+          },
+          "type": "retro-fceumm",
+          "title": "Baseball",
+          "description": "Baseball is a simple baseball video game made by Nintendo in 1983 for the Nintendo Family Computer, making it one of the first games released for the Famicom. It was later one of the NES's 18 launch titles when it was released in 1985 in the United States. As in real baseball, the object of the game is to score the most runs. Up to two players are supported. Each player can select from one of six teams. Although there is no difference between them other than uniform color, they are meant to represent the six members of the Japanese Central League.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Baseball%20(Japan)%20(En).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Baseball%20(Japan)%20(En).png",
+          "backgroundPixelated": true,
+          "longTitle": "Baseball",
+          "added": 1788983857862
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Bio%20Miracle%20Bokutte%20Upa%21%21.zip"
+          },
+          "type": "nes",
+          "title": "Bio Miracle Bokutte Upa",
+          "added": 1788984065731,
+          "description": "Upa is the prince of a magical kingdom and the most recent in a line of brave fighters. One day, though, he broke an urn containing the spirit of Zai, an incredibly evil goatish demon who takes the life force of the kingdom's adults and kidnaps all the babies - except for Upa, who is given a magical rattle by a fairy who was trapped in the urn along with Zai. And so, in order to save his kingdom, Upa crawls into action.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Bio%20Miracle%20Bokutte%20Upa%20(Japan).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Bio%20Miracle%20Bokutte%20Upa%20(Japan).png",
+          "backgroundPixelated": true,
+          "longTitle": "Bio Miracle Bokutte Upa"
+        },
+        {
+          "title": "Bomberman (Japan)",
+          "longTitle": "Bomberman (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Bomberman%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Bomberman%20(USA).png",
+          "description": "Bomberman is an action game that has become synonymous with the Hudson brand. This is the very first version of Bomberman, which was released in 1985, and it went on to sell over one million copies. Bomberman boasts a simple and addictive game system where the players set bombs to knock out enemies.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Bomberman.zip"
+          },
+          "added": 1788984097728
+        },
+        {
+          "title": "Bubble Bobble (Japan)",
+          "longTitle": "Bubble Bobble (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Bubble%20Bobble%20(USA)%20(Virtual%20Console).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Bubble%20Bobble%20(USA)%20(Virtual%20Console).png",
+          "description": "In the game, each player controls one of the two Bubble Dragons, Bub and Bob. The player can move along platforms, as well as jump to those above and to the side, similar to most platform games.\nThe player can also blow bubbles. These can trap enemies, who are defeated if the bubble is then burst by the player's spiny back. Bubbles that contain enemies can be popped at the same time resulting in different foods being projected throughout the level. Each enemy trapped in a bubble equates to a different food. Food is consumed and transferred to points (an increasing scale of 1000 points is awarded for each enemy burst in tandem with another meaning: one enemy burst equals one food item worth 1000 points, two enemies burst equals two food items worth 1000 and 2000 points, three enemies burst equals three food items worth 1000, 2000, and 3000 points, and so on) which results in more lives. These same bubbles also float for a time before bursting, and can be jumped on, allowing access to otherwise inaccessible areas. Players progress to the next level once all enemies on the current level are defeated.\nEnemies turn \"angry\"  becoming pink-colored and moving faster  if they are the last enemy remaining, escape from a bubble after being left too long, or a certain amount of time has been spent on the current level. A monster will also become angry if either player collects a skull (the only negative item in the game), and the monster is hit by the resulting comet crossing the screen. However, this is a rare occurrence.\nAfter a further time limit expires, an additional invincible enemy appears for each player, actively chasing them using only vertical and horizontal movements. These do not need to be defeated to complete the level, and disappear once a player's life is lost.\nContact with enemies and their projectiles (rocks, lasers, fireballs, etc.) is deadly, resulting in the loss of a life.\nThe game's music was written by Japanese team Zuntata. Peter Clarke, Tim Follin and David Whittaker have arranged music for home computer ports (some versions have a new intro music by Whittaker).",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Bubble%20Bobble.zip"
+          },
+          "added": 1788984111262
+        },
+        {
+          "title": "BurgerTime (Japan)",
+          "longTitle": "BurgerTime (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/BurgerTime%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/BurgerTime%20(USA).png",
+          "description": "You play as Chef Pepper and your goal is to make giant hamburgers while evil eggs, sausages and pickles chase you around the game area. \n\nTo properly make a hamburger you must assemble all of the ingredients together, dropping them from higher up onto the the burger area below. To actually do this you have to let Chef Pepper step all over the burger ingredients. As soon as an ingredient (a piece of lettuce for instance) has been stepped on, it will fall to the next level below. Falling food will squish any enemy following you and will also\"bump\" any other ingredient bellow it farther down. Also, as an emergency defense against the enemy food, you can collect pepper shakers which will allow you to puff out a small pepper cloud which will momentarily stun enemies, allowing you to walk past them.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/BurgerTime.zip"
+          },
+          "added": 1788984117900
+        },
+        {
+          "title": "Clu Clu Land - Welcome to New Clu Clu Land (Japan)",
+          "longTitle": "Clu Clu Land - Welcome to New Clu Clu Land (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Clu%20Clu%20Land%20(World)%20(Virtual%20Console).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Clu%20Clu%20Land%20(World)%20(Virtual%20Console).png",
+          "description": "Clu Clu Land's story starts with a type of Sea Urchin, the Unira, stealing all of the treasures in the underwater kingdom of Clu Clu Land. Bubbles, the hero, sets out to retrieve the treasure. The object of the game is to uncover all the gold bars in each stage while avoiding the Unira and Black Holes.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Clu%20Clu%20Land%20-%20Welcome%20to%20New%20Clu%20Clu%20Land.zip"
+          },
+          "added": 1788984125190
+        },
+        {
+          "title": "Dig Dug (Japan)",
+          "longTitle": "Dig Dug (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Dig%20Dug%20(World)%20(Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Dig%20Dug%20(World)%20(Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%201).png",
+          "description": "Dig a little deeper into this thrilling action game as Dig Dug! Take up the role of Dig Dug, the champion of love and justice, as you drill through the ground and defeat any enemies that stray in your path. Clear the stage by avoiding and defeating the persistent Pooka and the deep-dwelling but whimsical Fygars. Hit enemies with the harpoon and pump air into them, or drop rocks from above. Pass through inflated enemies, or defeat multiple enemies in an adjacent passage for an even higher score. To earn a chance at bonus points, don't forget to collect those vegetables that appear! Keep on digging, and outmatch the enemies that dwell deep underground!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Dig%20Dug.zip"
+          },
+          "added": 1788984414181
+        },
+        {
+          "title": "Dig Dug II (Japan)",
+          "longTitle": "Dig Dug II (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Dig%20Dug%20II%20(USA%2C%20Europe)%20(Namco%20Museum%20Archives%20Vol%202).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Dig%20Dug%20II%20(USA%2C%20Europe)%20(Namco%20Museum%20Archives%20Vol%202).png",
+          "description": "DIG DUG has decided to chill out from the pressures of the real world by taking a long overdue vacation on a beautiful Caribbean island. \"At last,\" he thinks to himself, \"sun, sand, surf, and no more hassles from those miserable pests Pooka and Fygar!\" Lying in a hammock between the graceful palm trees, he drifts off into a blissful dream of beautiful bikini clad native girls catering to his every wish. But just when he thinks he's got it made in the shade, along come his troublesome enemies to turn his peaceful paradise into a tropical nightmare. Help DIG DUG rid the island of these irritating intruders and bring tranquility back to his vacation by the sea!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Dig%20Dug%20II.zip"
+          },
+          "added": 1788984414181
+        },
+        {
+          "title": "Donkey Kong (Japan)",
+          "longTitle": "Donkey Kong (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Donkey%20Kong%20(World)%20(Rev%201)%20(GameCube%20Edition).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Donkey%20Kong%20(World)%20(Rev%201)%20(GameCube%20Edition).png",
+          "description": "In Donkey Kong, Mario must rescue a damsel in distress, Lady, from a giant ape named Donkey Kong. The hero and ape later became two of Nintendo's most popular characters.\n\nThe game is divided into four different one-screen stages. Each represents 25 meters of the structure Donkey Kong has climbed, one stage being 25 meters higher than the previous. The final screen occurs at 100 m.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Donkey%20Kong.zip"
+          },
+          "added": 1788984414181
+        },
+        {
+          "title": "Donkey Kong Jr. (Japan)",
+          "longTitle": "Donkey Kong Jr. (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Donkey%20Kong%20Jr.%20(World)%20(Rev%201)%20(GameCube%20Edition).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Donkey%20Kong%20Jr.%20(World)%20(Rev%201)%20(GameCube%20Edition).png",
+          "description": "After the events of Donkey Kong, Donkey Kong has been captured by Mario as revenge for kidnapping his girlfriend and Donkey Kong Jr. has to save him. Donkey Kong Jr. will travel through four stages from the jungle to the big city to get his father back, climbing vines, avoiding enemies and jumping on platforms along the way. However every time Donkey Kong Jr. gets close to freeing DK, Mario just pushes him further away.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Donkey%20Kong%20Jr..zip"
+          },
+          "added": 1788984414181
+        },
+        {
+          "title": "Eggerland - Souzou e no Tabidachi (Japan)",
+          "longTitle": "Eggerland - Souzou e no Tabidachi (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Eggerland%20-%20Meikyuu%20no%20Fukkatsu%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Eggerland%20-%20Meikyuu%20no%20Fukkatsu%20(Japan).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Eggerland%20-%20Souzou%20e%20no%20Tabidachi.zip"
+          },
+          "added": 1788984414182
+        },
+        {
+          "title": "Galaga (Japan)",
+          "longTitle": "Galaga (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Galaga%20(World)%20(Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%202).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Galaga%20(World)%20(Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%202).png",
+          "description": "The objective of Galaga is to score as many points as possible by destroying insect-like enemies. The player controls a starfighter that can move left and right along the bottom of the playfield. Enemies swarm in groups in a formation near the top of the screen, and then begin flying down toward the player, firing bombs at the fighter. The game ends when the player's last fighter is lost, either by colliding with an enemy or one of its bullets, or by being captured.\nGalaga introduces a number of new features over its predecessor, Galaxian. Among these is the ability to fire more than one bullet at a time, a count of the player's \"hit/miss ratio\" at the end of the game, and a bonus \"Challenging Stage\" that occurs every few levels, in which a series of enemies fly onto and out of the screen in set patterns without firing at the player's ship or trying to crash into it. These stages award a large point bonus if the player manages to destroy every enemy.\nAnother gameplay feature new to Galaga is the ability for enemies to capture the player's fighter. While the player is in control of just one fighter, a \"boss Galaga\" (which takes two shots to kill) periodically attempts to capture the fighter using a tractor beam. If successful, the fighter joins the enemy formation. If the player has more lives remaining, play resumes with a new fighter. The captured fighter flies down with the enemy that captured it, firing upon the player just like normal enemies, and can be shot and destroyed. The player can free the fighter by destroying the boss Galaga while in flight, causing the captured fighter to link up with the player's current fighter, doubling his or her firepower but also making a target twice as large.\nGalaga has an exploitable bug that can cause the attackers to stop firing bullets at the player, due to a coding error. In addition, similar to the famous \"Split-Screen bug\" in Pac-Man, a bug exists in Galaga in which the game \"rolls over\" from Level 255 to Level 0. Depending on the difficulty setting of the machine, this can cause the game to stall, requiring that the machine be reset or power-cycled in order to start a new game.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Galaga.zip"
+          },
+          "added": 1788984414183
+        },
+        {
+          "title": "Galaxian (Japan)",
+          "longTitle": "Galaxian (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Galaxian%20(World)%20(Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Galaxian%20(World)%20(Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%201).png",
+          "description": "The Galaxian Fleet has invaded and it's up to you to stop them. There's two-way action in this game; as you fire at them, they're firing back at you! All that is required of you is quick reflexes and an accurate aim. Can you destroy the Galaxian Fleet before they destroy you?\n\nThis game was released only for the japanese Famicom and is a port of the original Arcade game released in 1979.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Galaxian.zip"
+          },
+          "added": 1788984414183
+        },
+        {
+          "title": "Golf (Japan) (Rev-A)",
+          "longTitle": "Golf (Japan) (Rev-A)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Golf%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Golf%20(USA).png",
+          "description": "Nintendo GOLF lets you choose your clubs, change your stance, control your swings - even select the angle of impact! You'll view the hole from both close up and far away, judge the changing conditions of the green, and measure the wind velocity. But watch out! When the wind changes, so does the flight of your ball. With Nintendo's state-of-the-art graphics and realistic game play, you'll really believe you're on the fairways. So play Nintendo GOLF, because there's not a video golf game on par with it anywhere!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Golf.zip"
+          },
+          "added": 1788984414183
+        },
+        {
+          "title": "Goonies, The (Japan)",
+          "longTitle": "Goonies, The (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Goonies%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Goonies%20(Japan).png",
+          "description": "The game consists of six levels. In each level, you must collect three keys to advance to the next area. These can be found by blowing open doors with bombs that are dropped by enemies. Also hidden behind doors are power-ups and other Goonies to rescue. Trying to stop you are enemies such as rats, skeletons, and even members of the Fratelli Gang. Bonus points can be gained by picking up diamonds and other valuables, rescuing the other Goonies, or by dispatching enemies with your slingshot or kicking them.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Goonies%2C%20The.zip"
+          },
+          "added": 1788984414184
+        },
+        {
+          "title": "Gun.Smoke (Japan)",
+          "longTitle": "Gun.Smoke (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Gun.Smoke%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Gun.Smoke%20(USA).png",
+          "description": "Gun.Smoke is very similar to Commando, another Capcom game, but with several differences. Whereas Commando is a run and gun game, this game is a scrolling shooter in which the screen scrolls upward automatically and players only have three ways to shoot, using three buttons for left, right, and center shooting. However, a player can also change the way the gunman shoots through button combinations. A player can still die by getting shot or struck by enemies like in Commando but improve protection by getting special items, including a horse, for protection up to three hits; boots, for speed of movement; bullets, for faster shots; and rifles, for shot length. These items are found by shooting barrels and rifles, boots, and bullets can stock up to five.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Gun.Smoke.zip"
+          },
+          "added": 1788984414184
+        },
+        {
+          "title": "Ice Climber (Japan)",
+          "longTitle": "Ice Climber (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Ice%20Climber%20(USA%2C%20Europe%2C%20Korea).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Ice%20Climber%20(USA%2C%20Europe%2C%20Korea).png",
+          "description": "The first player controls Popo, a boy wearing a blue Eskimo parka, while the second player controls Nana, a girl wearing a pink Eskimo parka. The only tool they carry is a wooden mallet to carve openings in the ice above and to club enemies. Each mountain level consists of eight layers of colorful ice and a bonus stage. Standard, dull ice blocks pose no threat other than an easily disposed of barrier and platform. Square ice blocks with higher detail are indestructible forcing the player to take another path",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Ice%20Climber.zip"
+          },
+          "added": 1788984414185
+        },
+        {
+          "title": "Ice Hockey (Japan)",
+          "longTitle": "Ice Hockey (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Ice%20Hockey%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Ice%20Hockey%20(USA).png",
+          "description": "It's fast skatin', hip checkin', high scoring action. Lead your team into center ice, over the opponent's blue line. Pass over to the point and set up for the tip in - Score! Choose a country for you and your opponent, select a level of play and face off at center ice to become the top goal scorer in Nintendo's Ice Hockey! Get charged with a penalty and test your defense. Or attack on a power play and use your puck handling skills to catch your opponents off guard. Either way, you can become a superstar in the league of Nintendo Ice Hockey!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Ice%20Hockey.zip"
+          },
+          "added": 1788984414185
+        },
+        {
+          "title": "Metroid (Japan) (En) (1.1)",
+          "longTitle": "Metroid (Japan) (En) (1.1)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Metroid%20(USA)%20(Virtual%20Console).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Metroid%20(USA)%20(Virtual%20Console).png",
+          "description": "You're inside the fortress planet Zebes.  The planet of endless secret passageways where the Metroid are multiplying.  Left alone the Metroid are harmless.  But in the wrong hands they could destroy the galaxy.  It's up to you to prevent the Mother Brain that controls Zebes from using the Metroid for evil purposes.  But that won't be easy.  You'll have to use your spacesuit to absorb valuable energy for your search to gain the use of power items like the Ice Beam, Wave Beam, High Jump Boots and Varia.  If you survive, it will be you and your acquired powers against the Mother Brain.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Translations%2FMetroid.zip"
+          },
+          "added": 1788984414189
+        },
+        {
+          "title": "Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan) (Rev-A)",
+          "longTitle": "Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan) (Rev-A)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Moero%20TwinBee%20-%20Cinnamon%20Hakase%20o%20Sukue!%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Moero%20TwinBee%20-%20Cinnamon%20Hakase%20o%20Sukue!%20(Japan).png",
+          "description": "Save Professor Cinnamon! When aliens from the planet Attackon kidnap the inventor during their invasion of Earth, two TwinBee Stinger jets (armed with boxing gloves) are unleashed to rescue Cinnamon before the aliens turn the Earth into a giant ball of cotton candy!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Moero%20TwinBee%20-%20Cinnamon%20Hakase%20wo%20Sukue%21.zip"
+          },
+          "added": 1788984414186
+        },
+        {
+          "title": "Pac-Man (Japan)",
+          "longTitle": "Pac-Man (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Pac-Man%20(World)%20(Rev%20A)%20(Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Pac-Man%20(World)%20(Rev%20A)%20(Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%201).png",
+          "description": "The player controls Pac-Man through a maze, eating pac-dots. When all dots are eaten, Pac-Man is taken to the next stage, between some stages one of three intermission animations plays. Four enemies (Blinky, Pinky, Inky and Clyde) roam the maze, trying to catch Pac-Man. If an enemy touches Pac-Man, a life is lost. When all lives have been lost, the game ends.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Pac-Man.zip"
+          },
+          "added": 1788984414186
+        },
+        {
+          "title": "Pinball (Japan)",
+          "longTitle": "Pinball (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Pinball%20(Japan%2C%20USA)%20(GameCube%20Edition).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Pinball%20(Japan%2C%20USA)%20(GameCube%20Edition).png",
+          "description": "Be a pinball wizard, right in your own home!\n   Bank off bumpers, flip double flippers - even win a bonus round - in Nintendo's lightning-fast PINBALL!  You'll have the time of your life as you flip from upper to lower game screens, rack up points to beat your opponent, and, if you're lucky, progress to the bonus round where you'll save the falling maiden in this video version of the real thing!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Pinball.zip"
+          },
+          "added": 1788984414186
+        },
+        {
+          "title": "Pro Wrestling - Famicom Wrestling Association (Japan)",
+          "longTitle": "Pro Wrestling - Famicom Wrestling Association (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Pro%20Wrestling%20(USA)%20(Rev%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Pro%20Wrestling%20(USA)%20(Rev%201).png",
+          "description": "The player chooses a wrestler with unique skills and presses various combinations of buttons to use different wrestling moves. It is possible to leave the ring; however, a player who does so must re-enter the ring before the referee's 20-count. Failure to do so results in a loss (via count-out) or a draw (double count-out), if both wrestlers fail to re-enter in time. (Note: The referee's count is broken only after both wrestlers have re-entered the ring. That is, as long as at least one wrestler is outside the ring, the referee's count continues. Moreover, it is possible for a wrestler to be counted out while executing a Plunger if he has crossed the ring ropes by the count of 20",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Pro%20Wrestling%20-%20Famicom%20Wrestling%20Association.zip"
+          },
+          "added": 1788984414186
+        },
+        {
+          "title": "Puyo Puyo (Japan)",
+          "longTitle": "Puyo Puyo (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Puyo%20Puyo%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Puyo%20Puyo%20(Japan).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Puyo%20Puyo.zip"
+          },
+          "added": 1788984414187
+        },
+        {
+          "title": "Section-Z (Japan)",
+          "longTitle": "Section-Z (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Section-Z%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Section-Z%20(USA).png",
+          "description": "Planet Earth in the year 2XXX. You are relaxing at the console of your computerized superconductor-generated interplanetary satellite communications system. Suddenly, high frequency radio and television transmissions blast warnings to all inhabitants to prepare for the brutal invading forces of Balangool Empire. Battle and defeat the space soldiers of Balangool. Penetrate their base divided in section A through SECTION Z, then destroy Balangool master control \"L-Brain.\"",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Section-Z.zip"
+          },
+          "added": 1788984414187
+        },
+        {
+          "title": "Soccer (Japan)",
+          "longTitle": "Soccer (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Soccer%20(Japan%2C%20USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Soccer%20(Japan%2C%20USA).png",
+          "description": "The objective is to kick the ball into the opponent's goal. The game features cheerleaders and the ability to choose between 15, 30, and 45-minutes halves. Pressing B passes the ball, while A shoots at the opponent's goal.\n\nThere are seven teams represented in the game:\nBRA -  Brazil\nESP -  Spain\nFRA -  France\nFRG -  West Germany\nGBR -  England\nJPN -  Japan\nUSA -  United States",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Soccer.zip"
+          },
+          "added": 1788984414187
+        },
+        {
+          "title": "Solomon no Kagi (Japan)",
+          "longTitle": "Solomon no Kagi (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Solomon%20no%20Kagi%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Solomon%20no%20Kagi%20(Japan).png",
+          "description": "Solomon's Key is a platform game with both action and strategy elements. On each level your goal is to retrieve a key which can then be used to unlock the exit. To help out, you have a magic wand which can be used to create and destroy blocks (though some blocks can't be destroyed). In order to reach the key you will need carefully to arrange the blocks on the screen so you can jump your way around safely. Wandering around each level are a variety of enemies which will cause you to lose a life if you're caught. Some creatures can be killed by destroying the block they are standing on, others must be dodged. Hidden bonuses and magic can be found on many of the levels, sometimes even hidden in blocks. Some treasures give you bonus points, others can form magic spells to help deal with the enemies. To make the game more difficult, each level has a time limit in which it must be completed.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Solomon%20no%20Kagi.zip"
+          },
+          "added": 1788984414187
+        },
+        {
+          "title": "Super Mario Bros. (Japan)",
+          "longTitle": "Super Mario Bros. (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Super%20Mario%20Bros.%20(World).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Super%20Mario%20Bros.%20(World).png",
+          "description": "Do you have what it takes to save the Mushroom Princess?  You'll have to think fast and move even faster to complete this quest!  The Mushroom Princess is being held captive by the evil Koopa tribe of turtles.  It's up to you to rescue her from the clutches of the Koopa King before time runs out.  But it won't be easy.  To get to the Princess, you'll have to climb mountains, cross seas, avoid bottomless pits, fight off turtle soldiers and a host of black magic traps that only a Koopa King can devise.  It's another non-stop adventure from the Super Mario Bros.!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Super%20Mario%20Bros..zip"
+          },
+          "added": 1788984414188
+        },
+        {
+          "title": "Super Mario Bros. 2 (Japan) (Debug Value 0)",
+          "longTitle": "Super Mario Bros. 2 (Japan) (Debug Value 0)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Super%20Mario%20Bros.%202%20(USA)%20(Rev%201)%20(Virtual%20Console).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Super%20Mario%20Bros.%202%20(USA)%20(Rev%201)%20(Virtual%20Console).png",
+          "description": "Mario's back!  Bigger and badder than before!  This time it's a fierce action-packed battle to free the land of Subcon from the curse of the evil Wart.  It's up to you, along with Mario, Luigi, Toad and the Princess, to fight your way through bizarre multi-level worlds and find him!  This time you've got a brand new kind of power - plucking power - and now anything you find can be a weapon.  But beware!  You've never seen creatures like these!  Shyguys and Tweeters!  Ninji and Beezos!  And you've never had an adventure like this!  Only cunning and speed can save you now",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Super%20Mario%20Bros.%202.zip"
+          },
+          "added": 1788984414188
+        },
+        {
+          "title": "Super Mario Bros. 3 - The Forgotten Worlds (Super Mario Bros. 2 modification) (1.0)",
+          "longTitle": "Super Mario Bros. 3 - The Forgotten Worlds (Super Mario Bros. 2 modification) (1.0)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Super%20Mario%20Bros.%203%20(USA)%20(Rev%201)%20(Virtual%20Console).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Super%20Mario%20Bros.%203%20(USA)%20(Rev%201)%20(Virtual%20Console).png",
+          "description": "Fight monsters and mini-bosses, avoid ghosts and the burning sun.  Make your way through water and quicksand.  Dodge cannon balls and bullets and rescue the King's wand!\n\nIn Super Mario Bros. 3 there are more warps, more chances at extra lives, and new special suits!  The raccoon suit lets you fly and knock out blocks.  The frog suit helps you out-swim the deadly fish.  There are suits for every occasion!\n\nStore up flowers and mushrooms to use later on.  Play game-show type bonus rounds!  Go back to that last screen and get a mushroom!  Pause to take a break, then continue where you left off!\n\nSuper Mario Bros. 3 is fun to play alone, or team up with a buddy to prolong the adventure!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Hacks%2FSuper%20Mario%20Bros.%203%20-%20The%20Forgotten%20Worlds.zip"
+          },
+          "added": 1788984414184
+        },
+        {
+          "title": "Tennis (Japan)",
+          "longTitle": "Tennis (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Tennis%20(Japan%2C%20USA)%20(GameCube%20Edition).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Tennis%20(Japan%2C%20USA)%20(GameCube%20Edition).png",
+          "description": "Whether it's singles or doubles you'll love the non-stop action of this amazingly real tennis game!\n\n   Slam a serve, fire a blazing backhand, smash a forehand volley - you call the shots in Nintendo TENNIS!  Nintendo lets you choose an opponent from five different skill levels.  So as your game improves, so does your playing partner!  Plus, you can actually gauge the speed of your serve!  The better your timing, the faster it moves across the net.  You'll have hours of fun rushing the net, playing the baseline or roaming the court.  With Nintendo's state-of-the-art graphics and realistic game play, you'll really believe you're at center court!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Tennis.zip"
+          },
+          "added": 1788984414188
+        },
+        {
+          "title": "TwinBee (Japan)",
+          "longTitle": "TwinBee (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/TwinBee%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/TwinBee%20(Japan).png",
+          "description": "TwinBee is a cartoon-themed vertical-scrolling shoot 'em up game originally released by Konami as a coin-operated video game in 1985 in Japan. It was the very first game to run on Konami's Bubble System hardware. TwinBee was ported to the Family Computer and MSX in 1986 and has been included in numerous compilations released in later years. The original arcade game was released outside Japan for the first time in the Nintendo DS compilation Konami Classics Series: Arcade Hits. A mobile phone version was released for i-mode Japan phones in 2003 with edited graphics.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/TwinBee.zip"
+          },
+          "added": 1788984414189
+        },
+        {
+          "title": "Volleyball (Japan)",
+          "longTitle": "Volleyball (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Volleyball%20(USA%2C%20Europe)%20(Virtual%20Console).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Volleyball%20(USA%2C%20Europe)%20(Virtual%20Console).png",
+          "description": "Volleyball is an action game for one or two players. Choose a country to represent, choose a mens or womens team, then head to the court to begin! You can serve, set the ball for a teammate, spike, lob, or dive to save the game.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Volleyball.zip"
+          },
+          "added": 1788984414189
+        },
+        {
+          "title": "Wrecking Crew (Japan)",
+          "longTitle": "Wrecking Crew (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Wrecking%20Crew%20(World)%20(Virtual%20Console).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Wrecking%20Crew%20(World)%20(Virtual%20Console).png",
+          "description": "The player controls Mario and attempts to destroy all of a certain set of objects with a large hammer on each of 100 levels. Mario cannot jump because of the hammer's weight. Each level takes place on a playfield divided into an invisible grid, each space of which can contain one object. Objects include destructible walls, pillars, and ladders, indestructible barrels and ladders, bombs that destroy all connected destructible objects, and various enemies that Mario must avoid. Doors may also exist, which can be opened to cause enemies to move harmlessly into the background.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Wrecking%20Crew.zip"
+          },
+          "added": 1788984414190
+        },
+        {
+          "title": "Xevious (Japan)",
+          "longTitle": "Xevious (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Xevious%20(World)%20(Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Xevious%20(World)%20(Namcot%20Collection%2C%20Namco%20Museum%20Archives%20Vol%201).png",
+          "description": "The player uses an 8-way joystick to pilot a combat aircraft called a Solvalou, which is armed with a forward-firing Zapper for aerial targets and a Blaster which fires an unlimited supply of air-to-surface bombs for ground targets. The game, presumably set in Peru, was noted for the varied terrain below, which included forests, airstrips, bases, and mysterious Nazca Line-like drawings on the ground",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Xevious.zip"
+          },
+          "added": 1788984414190
+        },
+        {
+          "title": "Zanac (Japan)",
+          "longTitle": "Zanac (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Zanac%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Zanac%20(USA).png",
+          "description": "The \"system\" was created by an organic intelligence body many milleniums ago and began attacking the human race. The earth was thrown into turmoil with only one hope for salvation. Fighter model AFX-6502 ZANAC was perfected by the 256th Riot Fleet to ward off the enemy system. It's your job, as ZANAC, to save the human race. Using eight special weapons and secret power forces buried along the way, guide ZANAC through 12 screens of enemy creatures to victory.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/Zanac.zip"
+          },
+          "added": 1788984414190
+        }
+      ],
+      "thumbnail": "https://archive.org/download/image_20260510_1940/Famicom%20Disk%20arts333.png",
+      "background": "https://archive.org/download/image_20260510_1940/Famicom%20Disk%20thumb%20333.png"
     }
   ],
   "thumbnail": "https://archive.org/download/image_20260510_1940/tema%20do%20wecade2.png",
