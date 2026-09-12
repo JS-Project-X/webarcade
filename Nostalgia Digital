@@ -14775,6 +14775,23 @@
             "rom": "https://archive.org/download/kof98_202309/zoar.zip"
           },
           "added": 1695601864933
+        },
+        {
+          "props": {
+            "additionalRoms": [
+              "https://archive.org/download/kof98_202309/kof2002.zip"
+            ],
+            "rom": "https://archive.org/download/full-set-arcade-fbaneo-netplay-online/kf2k2mp2.zip",
+            "bios": 1
+          },
+          "type": "fbneo-neogeo",
+          "title": "The King of Fighters 2002 Magic Plus II",
+          "description": "",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/The%20King%20of%20Fighters%202002%20Magic%20Plus%20II%20(bootleg).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/The%20King%20of%20Fighters%202002%20Magic%20Plus%20II%20(bootleg).png",
+          "backgroundPixelated": true,
+          "longTitle": "The King of Fighters 2002 Magic Plus II",
+          "added": 1789236005883
         }
       ],
       "longTitle": " ⭐🌟 Arcades Neo geo  Mame🌟⭐       Nostalgia Sem Limites",
@@ -97604,6 +97621,71 @@
         {
           "props": {
             "discs": [
+              "https://gam.onl/user/psx/roms/World%20Cup%2098%20(USA).chd"
+            ],
+            "sbi": [],
+            "uid": "e7258913-5197-4d5e-ab87-ef2d84918eb6"
+          },
+          "type": "beetle-psx",
+          "title": "FIFA - Road to World Cup 98",
+          "description": "The late-1997 edition of FIFA was heavily tied in with the qualifying procedure for the 1998 World Cup. In the Road to the World Cup mode, you take a team from first qualification through to the main tournament, using the varying systems in different parts of the world. The game features 16 distinct outdoor stadia. The League play features 189 clubs and 11 leagues. Each team has specific crowd chants incorporated into the ambient sound.\n\nThe action is faster than in previous versions, and AI has been expanded. Players have distinct facial feature and hair styles. Each match is introduced by Des Lynam and commentated on by John Motson and former Scotland international Andy Gray.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/FIFA%20-%20Road%20to%20World%20Cup%2098%20(Europe)%20(En%2CFr%2CDe%2CEs%2CNl%2CSv).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/FIFA%20-%20Road%20to%20World%20Cup%2098%20(Europe)%20(En%2CFr%2CDe%2CEs%2CNl%2CSv).png",
+          "backgroundPixelated": true,
+          "longTitle": "FIFA - Road to World Cup 98",
+          "added": 1789178557331
+        },
+        {
+          "props": {
+            "uid": "a73f8191-c50d-4a69-872a-c15742a0b1c9",
+            "discs": [
+              "https://gam.onl/user/psx/roms/FIFA Soccer 2002 (USA) (En,Es).chd"
+            ]
+          },
+          "type": "beetle-psx",
+          "title": "FIFA Soccer 2002",
+          "description": "With the new open passing system, FIFA 2002 allows you more freedom of play for the new season. Over 75 licensed national teams and 16 licensed leagues including the English Premier League are available for your control, and you have the opportunity to lead your team to the World Cup of 2002.\nUpdates to the series also include:\n\nImproved tackling system. Depending on which angle you make a tackle determines the referee's call.\n\nCommentary by John Motson and Andy Gray.\n\nNew set plays (similar to the style of the NBA Live series) allows for more control over you players during critical corners or free kicks.\n\nConsecutive seasons brings promotion or relegation of your team in Europe.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/FIFA%20Soccer%202002%20(USA)%20(En%2CEs).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/FIFA%20Soccer%202002%20(USA)%20(En%2CEs).png",
+          "backgroundPixelated": true,
+          "longTitle": "FIFA Soccer 2002",
+          "added": 1789178579018
+        },
+        {
+          "props": {
+            "uid": "102bac3b-9351-4976-b32c-2d9f5b3858eb",
+            "discs": [
+              "https://gam.onl/user/psx/roms/FIFA Soccer 2003 (USA).chd"
+            ]
+          },
+          "type": "beetle-psx",
+          "title": "FIFA Soccer 2003",
+          "description": "FIFA 2003 continues the trend of improving each year's new release by keeping the formula that worked, while also adding new features to make the game more enjoyable.\n\nSome of these new features including a \"Freestyle\" control, which is activated by the right thumbstick, causing you to do special moves, such as a deke, or kick the ball a fair length forwards to gain some speed.\n\nNew and improved \"dead ball\" control makes corner kicks, free kicks, etc. more controllable and gives you more options.  The passing game has been improved as to allow better passing by kicking directly to a teammate, passing to nowhere in particular, or open passing to allow anybody to take it.\n\nFIFA 2003 includes all FIFA clubs, leagues, and players.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/FIFA%20Soccer%202003%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/FIFA%20Soccer%202003%20(USA).png",
+          "backgroundPixelated": true,
+          "longTitle": "FIFA Soccer 2003",
+          "added": 1789178599996
+        },
+        {
+          "props": {
+            "uid": "e1454f31-9392-4961-9bbe-980ab99a70d9",
+            "discs": [
+              "https://gam.onl/user/psx/roms/FIFA Soccer 2004 (USA) (En,Es).chd"
+            ]
+          },
+          "type": "beetle-psx",
+          "title": "FIFA Soccer 2004",
+          "description": "FIFA Soccer 2004 features eighteen leagues, with thirty-five national teams and over ten thousand players. Take them into a multi-season career, or individual tournaments or matches.\n\nLike EA's other 2004 games it has an in depth career mode, where you must manage your budget and team.  Promote players, demote players and renegotiate contracts, all in an effort to get your team to the finals again and again.\n\nThe skills to master range from kicked passes and headers to lob passes and bicycle kicks. You can take control of players before the ball reaches them, which makes it easier to find space to take the ball. Like other 2004 titles, FIFA uses the right analog stick for it's Freestyle gameplay.\n\nConsole versions use the EA Sports Bio, whereby you can continue to improve your gamer level and unlock rewards by playing other 2004 titles, such as Madden NFL 2004 or NBA Live 2004.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/FIFA%20Soccer%202004%20(USA)%20(En%2CEs).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/FIFA%20Soccer%202004%20(USA)%20(En%2CEs).png",
+          "backgroundPixelated": true,
+          "longTitle": "FIFA Soccer 2004",
+          "added": 1789178635616
+        },
+        {
+          "props": {
+            "discs": [
               "https://gam.onl/user/psx/roms/FIFA%20Soccer%202005%20(USA)%20(En,Es).chd"
             ],
             "sbi": [],
@@ -97618,6 +97700,38 @@
           "backgroundPixelated": true,
           "longTitle": "FIFA Soccer 2005",
           "added": 1757970254966
+        },
+        {
+          "props": {
+            "uid": "d6e8bb2e-4044-4d0c-8fc9-5e9ab549546b",
+            "discs": [
+              "https://gam.onl/user/psx/roms/FIFA Soccer 96 (USA).chd"
+            ]
+          },
+          "type": "beetle-psx",
+          "title": "FIFA Soccer 96",
+          "description": "Aiming to be the first football simulation that is realistic in the true sense of the word, FIFA Soccer 96 was extremely popular at the time of release. It was hailed as the first really successful FIFA release, and opened the way for yearly revisions of the concept.\n\nThere were a number of factors that made FIFA96 stand out from the crowd of other football sims. Firstly, the game's commentary was revolutionary at the time -- the renowned British commentator John Motson comments all the incidents and happenings on the pitch in real-time. The ambient commentary is varied, and systems with more than the minimum memory level get extra commentary phrases.\n\nThe Virtual Stadium technology has numerous pre-defined camera angles. The game even has a SVGA mode for better-than-minimum system\n\nFIFA96 boasts eleven leagues from all around the world, ranging from the unknown players of the Malaysian league to the celebrated stars of the English and Italian leagues. 59 International teams are also featured, and it's possible to match the teams you want to against each other through friendlies, or you can also choose to play domestic tournaments or International ones such as the World Cup. If you're not satisfied with the composition of the various teams, you can create your own dream team through the custom team creator.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/FIFA%20Soccer%2096%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CSv).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/FIFA%20Soccer%2096%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CSv).png",
+          "backgroundPixelated": true,
+          "longTitle": "FIFA Soccer 96",
+          "added": 1789178654192
+        },
+        {
+          "props": {
+            "uid": "a3c79f0a-971d-4315-bf99-9b83708325c5",
+            "discs": [
+              "https://gam.onl/user/psx/roms/FIFA Soccer 97 (USA).chd"
+            ]
+          },
+          "type": "beetle-psx",
+          "title": "FIFA Soccer 97",
+          "description": "This iteration of the FIFA lineage includes commentary from John Motson with summaries from Andy Gray, with the between-match sections covered by Des Lynam. All player moves are from David Ginola using the MotionBlending technology. Full interactive replays are included.\n\nYou can play a league or cup tournament, and practice your skills before playing. The game can be tailored to action or simulation style, with fouls, injuries and offsides available to toggle on or off. This version also includes a 6 vs 6 indoor play mode, and various multiplayer options",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/FIFA%20Soccer%2097%20(Japan).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/FIFA%20Soccer%2097%20(Japan).png",
+          "backgroundPixelated": true,
+          "longTitle": "FIFA Soccer 97",
+          "added": 1789178680969
         },
         {
           "props": {
@@ -100915,103 +101029,6 @@
           "backgroundPixelated": true,
           "longTitle": "Yu-Gi-Oh! Forbidden Memories",
           "added": 1748706016398
-        },
-        {
-          "props": {
-            "discs": [
-              "https://gam.onl/user/psx/roms/World%20Cup%2098%20(USA).chd"
-            ],
-            "sbi": [],
-            "uid": "e7258913-5197-4d5e-ab87-ef2d84918eb6"
-          },
-          "type": "beetle-psx",
-          "title": "FIFA - Road to World Cup 98",
-          "description": "The late-1997 edition of FIFA was heavily tied in with the qualifying procedure for the 1998 World Cup. In the Road to the World Cup mode, you take a team from first qualification through to the main tournament, using the varying systems in different parts of the world. The game features 16 distinct outdoor stadia. The League play features 189 clubs and 11 leagues. Each team has specific crowd chants incorporated into the ambient sound.\n\nThe action is faster than in previous versions, and AI has been expanded. Players have distinct facial feature and hair styles. Each match is introduced by Des Lynam and commentated on by John Motson and former Scotland international Andy Gray.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/FIFA%20-%20Road%20to%20World%20Cup%2098%20(Europe)%20(En%2CFr%2CDe%2CEs%2CNl%2CSv).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/FIFA%20-%20Road%20to%20World%20Cup%2098%20(Europe)%20(En%2CFr%2CDe%2CEs%2CNl%2CSv).png",
-          "backgroundPixelated": true,
-          "longTitle": "FIFA - Road to World Cup 98",
-          "added": 1789178557331
-        },
-        {
-          "props": {
-            "uid": "a73f8191-c50d-4a69-872a-c15742a0b1c9",
-            "discs": [
-              "https://gam.onl/user/psx/roms/FIFA Soccer 2002 (USA) (En,Es).chd"
-            ]
-          },
-          "type": "beetle-psx",
-          "title": "FIFA Soccer 2002",
-          "description": "With the new open passing system, FIFA 2002 allows you more freedom of play for the new season. Over 75 licensed national teams and 16 licensed leagues including the English Premier League are available for your control, and you have the opportunity to lead your team to the World Cup of 2002.\nUpdates to the series also include:\n\nImproved tackling system. Depending on which angle you make a tackle determines the referee's call.\n\nCommentary by John Motson and Andy Gray.\n\nNew set plays (similar to the style of the NBA Live series) allows for more control over you players during critical corners or free kicks.\n\nConsecutive seasons brings promotion or relegation of your team in Europe.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/FIFA%20Soccer%202002%20(USA)%20(En%2CEs).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/FIFA%20Soccer%202002%20(USA)%20(En%2CEs).png",
-          "backgroundPixelated": true,
-          "longTitle": "FIFA Soccer 2002",
-          "added": 1789178579018
-        },
-        {
-          "props": {
-            "uid": "102bac3b-9351-4976-b32c-2d9f5b3858eb",
-            "discs": [
-              "https://gam.onl/user/psx/roms/FIFA Soccer 2003 (USA).chd"
-            ]
-          },
-          "type": "beetle-psx",
-          "title": "FIFA Soccer 2003",
-          "description": "FIFA 2003 continues the trend of improving each year's new release by keeping the formula that worked, while also adding new features to make the game more enjoyable.\n\nSome of these new features including a \"Freestyle\" control, which is activated by the right thumbstick, causing you to do special moves, such as a deke, or kick the ball a fair length forwards to gain some speed.\n\nNew and improved \"dead ball\" control makes corner kicks, free kicks, etc. more controllable and gives you more options.  The passing game has been improved as to allow better passing by kicking directly to a teammate, passing to nowhere in particular, or open passing to allow anybody to take it.\n\nFIFA 2003 includes all FIFA clubs, leagues, and players.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/FIFA%20Soccer%202003%20(USA).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/FIFA%20Soccer%202003%20(USA).png",
-          "backgroundPixelated": true,
-          "longTitle": "FIFA Soccer 2003",
-          "added": 1789178599996
-        },
-        {
-          "props": {
-            "uid": "e1454f31-9392-4961-9bbe-980ab99a70d9",
-            "discs": [
-              "https://gam.onl/user/psx/roms/FIFA Soccer 2004 (USA) (En,Es).chd"
-            ]
-          },
-          "type": "beetle-psx",
-          "title": "FIFA Soccer 2004",
-          "description": "FIFA Soccer 2004 features eighteen leagues, with thirty-five national teams and over ten thousand players. Take them into a multi-season career, or individual tournaments or matches.\n\nLike EA's other 2004 games it has an in depth career mode, where you must manage your budget and team.  Promote players, demote players and renegotiate contracts, all in an effort to get your team to the finals again and again.\n\nThe skills to master range from kicked passes and headers to lob passes and bicycle kicks. You can take control of players before the ball reaches them, which makes it easier to find space to take the ball. Like other 2004 titles, FIFA uses the right analog stick for it's Freestyle gameplay.\n\nConsole versions use the EA Sports Bio, whereby you can continue to improve your gamer level and unlock rewards by playing other 2004 titles, such as Madden NFL 2004 or NBA Live 2004.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/FIFA%20Soccer%202004%20(USA)%20(En%2CEs).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/FIFA%20Soccer%202004%20(USA)%20(En%2CEs).png",
-          "backgroundPixelated": true,
-          "longTitle": "FIFA Soccer 2004",
-          "added": 1789178635616
-        },
-        {
-          "props": {
-            "uid": "d6e8bb2e-4044-4d0c-8fc9-5e9ab549546b",
-            "discs": [
-              "https://gam.onl/user/psx/roms/FIFA Soccer 96 (USA).chd"
-            ]
-          },
-          "type": "beetle-psx",
-          "title": "FIFA Soccer 96",
-          "description": "Aiming to be the first football simulation that is realistic in the true sense of the word, FIFA Soccer 96 was extremely popular at the time of release. It was hailed as the first really successful FIFA release, and opened the way for yearly revisions of the concept.\n\nThere were a number of factors that made FIFA96 stand out from the crowd of other football sims. Firstly, the game's commentary was revolutionary at the time -- the renowned British commentator John Motson comments all the incidents and happenings on the pitch in real-time. The ambient commentary is varied, and systems with more than the minimum memory level get extra commentary phrases.\n\nThe Virtual Stadium technology has numerous pre-defined camera angles. The game even has a SVGA mode for better-than-minimum system\n\nFIFA96 boasts eleven leagues from all around the world, ranging from the unknown players of the Malaysian league to the celebrated stars of the English and Italian leagues. 59 International teams are also featured, and it's possible to match the teams you want to against each other through friendlies, or you can also choose to play domestic tournaments or International ones such as the World Cup. If you're not satisfied with the composition of the various teams, you can create your own dream team through the custom team creator.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/FIFA%20Soccer%2096%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CSv).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/FIFA%20Soccer%2096%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CSv).png",
-          "backgroundPixelated": true,
-          "longTitle": "FIFA Soccer 96",
-          "added": 1789178654192
-        },
-        {
-          "props": {
-            "uid": "a3c79f0a-971d-4315-bf99-9b83708325c5",
-            "discs": [
-              "https://gam.onl/user/psx/roms/FIFA Soccer 97 (USA).chd"
-            ]
-          },
-          "type": "beetle-psx",
-          "title": "FIFA Soccer 97",
-          "description": "This iteration of the FIFA lineage includes commentary from John Motson with summaries from Andy Gray, with the between-match sections covered by Des Lynam. All player moves are from David Ginola using the MotionBlending technology. Full interactive replays are included.\n\nYou can play a league or cup tournament, and practice your skills before playing. The game can be tailored to action or simulation style, with fouls, injuries and offsides available to toggle on or off. This version also includes a 6 vs 6 indoor play mode, and various multiplayer options",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/FIFA%20Soccer%2097%20(Japan).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/FIFA%20Soccer%2097%20(Japan).png",
-          "backgroundPixelated": true,
-          "longTitle": "FIFA Soccer 97",
-          "added": 1789178680969
         }
       ]
     },
