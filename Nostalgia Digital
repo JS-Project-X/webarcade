@@ -100915,6 +100915,103 @@
           "backgroundPixelated": true,
           "longTitle": "Yu-Gi-Oh! Forbidden Memories",
           "added": 1748706016398
+        },
+        {
+          "props": {
+            "discs": [
+              "https://gam.onl/user/psx/roms/World%20Cup%2098%20(USA).chd"
+            ],
+            "sbi": [],
+            "uid": "e7258913-5197-4d5e-ab87-ef2d84918eb6"
+          },
+          "type": "beetle-psx",
+          "title": "FIFA - Road to World Cup 98",
+          "description": "The late-1997 edition of FIFA was heavily tied in with the qualifying procedure for the 1998 World Cup. In the Road to the World Cup mode, you take a team from first qualification through to the main tournament, using the varying systems in different parts of the world. The game features 16 distinct outdoor stadia. The League play features 189 clubs and 11 leagues. Each team has specific crowd chants incorporated into the ambient sound.\n\nThe action is faster than in previous versions, and AI has been expanded. Players have distinct facial feature and hair styles. Each match is introduced by Des Lynam and commentated on by John Motson and former Scotland international Andy Gray.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/FIFA%20-%20Road%20to%20World%20Cup%2098%20(Europe)%20(En%2CFr%2CDe%2CEs%2CNl%2CSv).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/FIFA%20-%20Road%20to%20World%20Cup%2098%20(Europe)%20(En%2CFr%2CDe%2CEs%2CNl%2CSv).png",
+          "backgroundPixelated": true,
+          "longTitle": "FIFA - Road to World Cup 98",
+          "added": 1789178557331
+        },
+        {
+          "props": {
+            "uid": "a73f8191-c50d-4a69-872a-c15742a0b1c9",
+            "discs": [
+              "https://gam.onl/user/psx/roms/FIFA Soccer 2002 (USA) (En,Es).chd"
+            ]
+          },
+          "type": "beetle-psx",
+          "title": "FIFA Soccer 2002",
+          "description": "With the new open passing system, FIFA 2002 allows you more freedom of play for the new season. Over 75 licensed national teams and 16 licensed leagues including the English Premier League are available for your control, and you have the opportunity to lead your team to the World Cup of 2002.\nUpdates to the series also include:\n\nImproved tackling system. Depending on which angle you make a tackle determines the referee's call.\n\nCommentary by John Motson and Andy Gray.\n\nNew set plays (similar to the style of the NBA Live series) allows for more control over you players during critical corners or free kicks.\n\nConsecutive seasons brings promotion or relegation of your team in Europe.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/FIFA%20Soccer%202002%20(USA)%20(En%2CEs).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/FIFA%20Soccer%202002%20(USA)%20(En%2CEs).png",
+          "backgroundPixelated": true,
+          "longTitle": "FIFA Soccer 2002",
+          "added": 1789178579018
+        },
+        {
+          "props": {
+            "uid": "102bac3b-9351-4976-b32c-2d9f5b3858eb",
+            "discs": [
+              "https://gam.onl/user/psx/roms/FIFA Soccer 2003 (USA).chd"
+            ]
+          },
+          "type": "beetle-psx",
+          "title": "FIFA Soccer 2003",
+          "description": "FIFA 2003 continues the trend of improving each year's new release by keeping the formula that worked, while also adding new features to make the game more enjoyable.\n\nSome of these new features including a \"Freestyle\" control, which is activated by the right thumbstick, causing you to do special moves, such as a deke, or kick the ball a fair length forwards to gain some speed.\n\nNew and improved \"dead ball\" control makes corner kicks, free kicks, etc. more controllable and gives you more options.  The passing game has been improved as to allow better passing by kicking directly to a teammate, passing to nowhere in particular, or open passing to allow anybody to take it.\n\nFIFA 2003 includes all FIFA clubs, leagues, and players.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/FIFA%20Soccer%202003%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/FIFA%20Soccer%202003%20(USA).png",
+          "backgroundPixelated": true,
+          "longTitle": "FIFA Soccer 2003",
+          "added": 1789178599996
+        },
+        {
+          "props": {
+            "uid": "e1454f31-9392-4961-9bbe-980ab99a70d9",
+            "discs": [
+              "https://gam.onl/user/psx/roms/FIFA Soccer 2004 (USA) (En,Es).chd"
+            ]
+          },
+          "type": "beetle-psx",
+          "title": "FIFA Soccer 2004",
+          "description": "FIFA Soccer 2004 features eighteen leagues, with thirty-five national teams and over ten thousand players. Take them into a multi-season career, or individual tournaments or matches.\n\nLike EA's other 2004 games it has an in depth career mode, where you must manage your budget and team.  Promote players, demote players and renegotiate contracts, all in an effort to get your team to the finals again and again.\n\nThe skills to master range from kicked passes and headers to lob passes and bicycle kicks. You can take control of players before the ball reaches them, which makes it easier to find space to take the ball. Like other 2004 titles, FIFA uses the right analog stick for it's Freestyle gameplay.\n\nConsole versions use the EA Sports Bio, whereby you can continue to improve your gamer level and unlock rewards by playing other 2004 titles, such as Madden NFL 2004 or NBA Live 2004.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/FIFA%20Soccer%202004%20(USA)%20(En%2CEs).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/FIFA%20Soccer%202004%20(USA)%20(En%2CEs).png",
+          "backgroundPixelated": true,
+          "longTitle": "FIFA Soccer 2004",
+          "added": 1789178635616
+        },
+        {
+          "props": {
+            "uid": "d6e8bb2e-4044-4d0c-8fc9-5e9ab549546b",
+            "discs": [
+              "https://gam.onl/user/psx/roms/FIFA Soccer 96 (USA).chd"
+            ]
+          },
+          "type": "beetle-psx",
+          "title": "FIFA Soccer 96",
+          "description": "Aiming to be the first football simulation that is realistic in the true sense of the word, FIFA Soccer 96 was extremely popular at the time of release. It was hailed as the first really successful FIFA release, and opened the way for yearly revisions of the concept.\n\nThere were a number of factors that made FIFA96 stand out from the crowd of other football sims. Firstly, the game's commentary was revolutionary at the time -- the renowned British commentator John Motson comments all the incidents and happenings on the pitch in real-time. The ambient commentary is varied, and systems with more than the minimum memory level get extra commentary phrases.\n\nThe Virtual Stadium technology has numerous pre-defined camera angles. The game even has a SVGA mode for better-than-minimum system\n\nFIFA96 boasts eleven leagues from all around the world, ranging from the unknown players of the Malaysian league to the celebrated stars of the English and Italian leagues. 59 International teams are also featured, and it's possible to match the teams you want to against each other through friendlies, or you can also choose to play domestic tournaments or International ones such as the World Cup. If you're not satisfied with the composition of the various teams, you can create your own dream team through the custom team creator.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/FIFA%20Soccer%2096%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CSv).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/FIFA%20Soccer%2096%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CSv).png",
+          "backgroundPixelated": true,
+          "longTitle": "FIFA Soccer 96",
+          "added": 1789178654192
+        },
+        {
+          "props": {
+            "uid": "a3c79f0a-971d-4315-bf99-9b83708325c5",
+            "discs": [
+              "https://gam.onl/user/psx/roms/FIFA Soccer 97 (USA).chd"
+            ]
+          },
+          "type": "beetle-psx",
+          "title": "FIFA Soccer 97",
+          "description": "This iteration of the FIFA lineage includes commentary from John Motson with summaries from Andy Gray, with the between-match sections covered by Des Lynam. All player moves are from David Ginola using the MotionBlending technology. Full interactive replays are included.\n\nYou can play a league or cup tournament, and practice your skills before playing. The game can be tailored to action or simulation style, with fouls, injuries and offsides available to toggle on or off. This version also includes a 6 vs 6 indoor play mode, and various multiplayer options",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/FIFA%20Soccer%2097%20(Japan).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/FIFA%20Soccer%2097%20(Japan).png",
+          "backgroundPixelated": true,
+          "longTitle": "FIFA Soccer 97",
+          "added": 1789178680969
         }
       ]
     },
@@ -100991,6 +101088,22 @@
         },
         {
           "props": {
+            "uid": "3b2c8c01-c729-4ea9-b699-23c2d71b5d59",
+            "discs": [
+              "https://archive.org/download/SSCHD-Arquivista/Battle%20Arena%20Toshinden%20Remix%20%28EU%29.chd"
+            ]
+          },
+          "type": "retro-yabause",
+          "title": "Battle Arena Toshinden Remix",
+          "description": "An enhanced version of the original 3D weapon-based fighter. Remix includes a new story mode with animated character portraits and voice-acted dialogue, filling in the backstory for the various combatants. The game allows for full 3D movement including side-stepping, and each character has a unique weapon style ranging from swords and clubs to claws. The Saturn version is noted for its high-quality soundtrack and exclusive boss fights.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Battle%20Arena%20Toshinden%20Remix%20v1.000%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Battle%20Arena%20Toshinden%20Remix%20v1.000%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Battle Arena Toshinden Remix",
+          "added": 1789162448400
+        },
+        {
+          "props": {
             "uid": "6b393639-ec44-4dd6-930b-040b34ec6246",
             "discs": [
               "https://archive.org/download/SSCHD-Arquivista/Battle%20Monsters%20%28EU%29.chd"
@@ -101020,6 +101133,22 @@
           "backgroundPixelated": true,
           "longTitle": "Bio Hazard",
           "added": 1789162131478
+        },
+        {
+          "props": {
+            "uid": "b37995c4-fd1e-40ce-a706-97228c36a395",
+            "discs": [
+              "https://archive.org/download/SSCHD-Arquivista/Blazing%20Dragons%20%28US%29.chd"
+            ]
+          },
+          "type": "retro-yabause",
+          "title": "Blazing Dragons",
+          "description": "A humorous point-and-click adventure game based on the animated series created by Terry Jones (of Monty Python fame). Players control Flicker, a young dragon who wants to become a knight to win the heart of Princess Flame. The game features high-quality hand-drawn animation and voice acting, with this German version preserving the witty humor and parody of Arthurian legend found in the original scripts.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Blazing%20Dragons%20v1.000%20(Crystal%20Dynamics)%20(Europe)%20(DE).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Blazing%20Dragons%20v1.000%20(Crystal%20Dynamics)%20(Europe)%20(DE).png",
+          "backgroundPixelated": true,
+          "longTitle": "Blazing Dragons",
+          "added": 1789162486138
         },
         {
           "props": {
@@ -101053,38 +101182,6 @@
           "backgroundPixelated": true,
           "longTitle": "Burning Rangers",
           "added": 1789162335070
-        },
-        {
-          "props": {
-            "uid": "3b2c8c01-c729-4ea9-b699-23c2d71b5d59",
-            "discs": [
-              "https://archive.org/download/SSCHD-Arquivista/Battle%20Arena%20Toshinden%20Remix%20%28EU%29.chd"
-            ]
-          },
-          "type": "retro-yabause",
-          "title": "Battle Arena Toshinden Remix",
-          "description": "An enhanced version of the original 3D weapon-based fighter. Remix includes a new story mode with animated character portraits and voice-acted dialogue, filling in the backstory for the various combatants. The game allows for full 3D movement including side-stepping, and each character has a unique weapon style ranging from swords and clubs to claws. The Saturn version is noted for its high-quality soundtrack and exclusive boss fights.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Battle%20Arena%20Toshinden%20Remix%20v1.000%20(Europe).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Battle%20Arena%20Toshinden%20Remix%20v1.000%20(Europe).png",
-          "backgroundPixelated": true,
-          "longTitle": "Battle Arena Toshinden Remix",
-          "added": 1789162448400
-        },
-        {
-          "props": {
-            "uid": "b37995c4-fd1e-40ce-a706-97228c36a395",
-            "discs": [
-              "https://archive.org/download/SSCHD-Arquivista/Blazing%20Dragons%20%28US%29.chd"
-            ]
-          },
-          "type": "retro-yabause",
-          "title": "Blazing Dragons",
-          "description": "A humorous point-and-click adventure game based on the animated series created by Terry Jones (of Monty Python fame). Players control Flicker, a young dragon who wants to become a knight to win the heart of Princess Flame. The game features high-quality hand-drawn animation and voice acting, with this German version preserving the witty humor and parody of Arthurian legend found in the original scripts.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Blazing%20Dragons%20v1.000%20(Crystal%20Dynamics)%20(Europe)%20(DE).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Blazing%20Dragons%20v1.000%20(Crystal%20Dynamics)%20(Europe)%20(DE).png",
-          "backgroundPixelated": true,
-          "longTitle": "Blazing Dragons",
-          "added": 1789162486138
         },
         {
           "props": {
@@ -101410,22 +101507,6 @@
         },
         {
           "props": {
-            "uid": "cef56cf3-0144-4e87-93cd-61497c948d09",
-            "discs": [
-              "https://archive.org/download/SSCHD-Arquivista/Dragon%20Ball%20Z%20-%20Idainaru%20Dragon%20Ball%20Densetsu%20%28JP%29.chd"
-            ]
-          },
-          "type": "retro-yabause",
-          "title": "DragonBall Z - Idainaru Dragon Ball Densetsu",
-          "description": "Known in Europe as Dragon Ball Z: The Legend, this game moves away from traditional one-on-one fighting in favor of massive team-based battles. Up to three characters can fight simultaneously on each side in large 3D arenas. The objective is to push the 'Power Balance' meter in your favor by landing attacks, which then triggers a cinematic 'Super Attack' to deal damage to the opponent's life bar. It is praised for its faithful recreation of the anime's chaotic, high-speed combat style.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/DragonBall%20Z%20-%20Idainaru%20Dragon%20Ball%20Densetsu%20v1.007%20(Japan).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/DragonBall%20Z%20-%20Idainaru%20Dragon%20Ball%20Densetsu%20v1.007%20(Japan).png",
-          "backgroundPixelated": true,
-          "longTitle": "DragonBall Z - Idainaru Dragon Ball Densetsu",
-          "added": 1789163219948
-        },
-        {
-          "props": {
             "uid": "01d199d3-c9cf-49a4-9672-81c9fd3a9066",
             "discs": [
               "https://archive.org/download/SSCHD-Arquivista/Dragon%20Force%20%28US%29.chd"
@@ -101440,6 +101521,22 @@
           "backgroundPixelated": true,
           "longTitle": "Dragon Force",
           "added": 1789163280610
+        },
+        {
+          "props": {
+            "uid": "cef56cf3-0144-4e87-93cd-61497c948d09",
+            "discs": [
+              "https://archive.org/download/SSCHD-Arquivista/Dragon%20Ball%20Z%20-%20Idainaru%20Dragon%20Ball%20Densetsu%20%28JP%29.chd"
+            ]
+          },
+          "type": "retro-yabause",
+          "title": "DragonBall Z - Idainaru Dragon Ball Densetsu",
+          "description": "Known in Europe as Dragon Ball Z: The Legend, this game moves away from traditional one-on-one fighting in favor of massive team-based battles. Up to three characters can fight simultaneously on each side in large 3D arenas. The objective is to push the 'Power Balance' meter in your favor by landing attacks, which then triggers a cinematic 'Super Attack' to deal damage to the opponent's life bar. It is praised for its faithful recreation of the anime's chaotic, high-speed combat style.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/DragonBall%20Z%20-%20Idainaru%20Dragon%20Ball%20Densetsu%20v1.007%20(Japan).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/DragonBall%20Z%20-%20Idainaru%20Dragon%20Ball%20Densetsu%20v1.007%20(Japan).png",
+          "backgroundPixelated": true,
+          "longTitle": "DragonBall Z - Idainaru Dragon Ball Densetsu",
+          "added": 1789163219948
         },
         {
           "props": {
@@ -101490,17 +101587,6 @@
           "backgroundPixelated": true,
           "longTitle": "Enemy Zero disc 1 2 3",
           "added": 1789163484263
-        },
-        {
-          "props": {
-            "uid": "b32df60b-8d0b-484d-95b8-0ba2de903a16"
-          },
-          "type": "retro-yabause",
-          "title": "FEDA Remake! The Emblem of Justice",
-          "longTitle": "FEDA Remake! The Emblem of Justice ",
-          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwKYxw5i3aJEvFTDjqP2Cuv4oArrUfX0JgcghDpGgrKQ&s=10",
-          "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL4LgBG4AhDqLzS71_4dxRrV-Rrs0fxykjfrCQA9DrTQ&s=10",
-          "added": 1789163600441
         },
         {
           "props": {
@@ -101667,22 +101753,6 @@
         },
         {
           "props": {
-            "uid": "e76e829f-4f09-4361-948b-f04eab58700d",
-            "discs": [
-              "https://archive.org/download/SSCHD-Arquivista/Magical%20Night%20Dreams%20-%20Cotton%20Boomerang%20%28JP%29.chd"
-            ]
-          },
-          "type": "retro-yabause",
-          "title": "Magical Night Dreams - Cotton Boomerang",
-          "description": "A remixed and refined version of Cotton 2. It changes the gameplay structure by allowing players to choose a team of three characters, switching between them and using them as 'lives'. It features altered stage layouts and more aggressive enemy patterns, catering to hardcore fans of the genre.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Magical%20Night%20Dreams%20-%20Cotton%20Boomerang%20(Japan).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Magical%20Night%20Dreams%20-%20Cotton%20Boomerang%20(Japan).png",
-          "backgroundPixelated": true,
-          "longTitle": "Magical Night Dreams - Cotton Boomerang",
-          "added": 1789164309161
-        },
-        {
-          "props": {
             "uid": "3383ce8b-52f1-477a-9db7-ecbdad98d777",
             "discs": [
               "https://archive.org/download/SSCHD-Arquivista/Magical%20Night%20Dreams%20-%20Cotton%202%20%28JP%29.chd"
@@ -101696,6 +101766,22 @@
           "backgroundPixelated": true,
           "longTitle": "Magical Night Dreams - Cotton 2",
           "added": 1789164322911
+        },
+        {
+          "props": {
+            "uid": "e76e829f-4f09-4361-948b-f04eab58700d",
+            "discs": [
+              "https://archive.org/download/SSCHD-Arquivista/Magical%20Night%20Dreams%20-%20Cotton%20Boomerang%20%28JP%29.chd"
+            ]
+          },
+          "type": "retro-yabause",
+          "title": "Magical Night Dreams - Cotton Boomerang",
+          "description": "A remixed and refined version of Cotton 2. It changes the gameplay structure by allowing players to choose a team of three characters, switching between them and using them as 'lives'. It features altered stage layouts and more aggressive enemy patterns, catering to hardcore fans of the genre.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Magical%20Night%20Dreams%20-%20Cotton%20Boomerang%20(Japan).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Magical%20Night%20Dreams%20-%20Cotton%20Boomerang%20(Japan).png",
+          "backgroundPixelated": true,
+          "longTitle": "Magical Night Dreams - Cotton Boomerang",
+          "added": 1789164309161
         },
         {
           "props": {
@@ -101798,22 +101884,6 @@
         },
         {
           "props": {
-            "uid": "b050a93a-0913-476f-9c76-e10e2385987b",
-            "discs": [
-              "https://archive.org/download/SSCHD-Arquivista/Mortal%20Kombat%20-%20Trilogy%20%28US%29.chd"
-            ]
-          },
-          "type": "retro-yabause",
-          "title": "Mortal Kombat Trilogy",
-          "description": "Mortal Kombat Trilogy is the ultimate 32-bit compilation, bringing together almost every character and stage from the first three games. This 'High Quality' fan-patched version by Paul_Met addresses several technical shortcomings of the original Saturn release, including optimized loading times and improved sound quality. Players can choose from over 30 characters, including the return of the classic ninjas and boss characters like Goro and Shao Kahn, all featuring their iconic Fatalities and Brutalities.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Mortal%20Kombat%20Trilogy%20(Midway)%20(USA)%5Bh%20quality%20paul_met%5D%5Bv1.1%5D.png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Mortal%20Kombat%20Trilogy%20(Midway)%20(USA)%5Bh%20quality%20paul_met%5D%5Bv1.1%5D.png",
-          "backgroundPixelated": true,
-          "longTitle": "Mortal Kombat Trilogy",
-          "added": 1789164486291
-        },
-        {
-          "props": {
             "uid": "ea3a30ec-3b4f-4f6d-bf15-fe1729bae252",
             "discs": [
               "https://archive.org/download/SSCHD-Arquivista/Mortal%20Kombat%202%20%28US%29.chd"
@@ -101827,6 +101897,22 @@
           "backgroundPixelated": true,
           "longTitle": "Mortal Kombat II",
           "added": 1789164505227
+        },
+        {
+          "props": {
+            "uid": "b050a93a-0913-476f-9c76-e10e2385987b",
+            "discs": [
+              "https://archive.org/download/SSCHD-Arquivista/Mortal%20Kombat%20-%20Trilogy%20%28US%29.chd"
+            ]
+          },
+          "type": "retro-yabause",
+          "title": "Mortal Kombat Trilogy",
+          "description": "Mortal Kombat Trilogy is the ultimate 32-bit compilation, bringing together almost every character and stage from the first three games. This 'High Quality' fan-patched version by Paul_Met addresses several technical shortcomings of the original Saturn release, including optimized loading times and improved sound quality. Players can choose from over 30 characters, including the return of the classic ninjas and boss characters like Goro and Shao Kahn, all featuring their iconic Fatalities and Brutalities.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Mortal%20Kombat%20Trilogy%20(Midway)%20(USA)%5Bh%20quality%20paul_met%5D%5Bv1.1%5D.png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Mortal%20Kombat%20Trilogy%20(Midway)%20(USA)%5Bh%20quality%20paul_met%5D%5Bv1.1%5D.png",
+          "backgroundPixelated": true,
+          "longTitle": "Mortal Kombat Trilogy",
+          "added": 1789164486291
         },
         {
           "props": {
@@ -101978,23 +102064,6 @@
         },
         {
           "props": {
-            "uid": "9ef944bd-b2b2-4035-99c4-97b0b1eb3599",
-            "ramExpansion": 2,
-            "discs": [
-              "https://archive.org/download/SSCHD-Arquivista/Street%20Fighter%20Alpha%202%20%28US%29.chd"
-            ]
-          },
-          "type": "retro-yabause",
-          "title": "Street Fighter Alpha 2",
-          "description": "The second game in the Alpha series. It introduces the 'Custom Combo' system and fan-favorite characters like Sakura and Rolento. The Saturn port is excellent, retaining the animation frames and speed of the arcade version better than its 32-bit competitors.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Street%20Fighter%20Alpha%202%20(USA).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Street%20Fighter%20Alpha%202%20(USA).png",
-          "backgroundPixelated": true,
-          "longTitle": "Street Fighter Alpha 2",
-          "added": 1789165035469
-        },
-        {
-          "props": {
             "uid": "1ab5c6a0-ec1d-4708-b68b-0baeb536bedb",
             "ramExpansion": 2,
             "discs": [
@@ -102009,6 +102078,23 @@
           "backgroundPixelated": true,
           "longTitle": "Street Fighter Alpha - Warriors' Dreams",
           "added": 1789165057320
+        },
+        {
+          "props": {
+            "uid": "9ef944bd-b2b2-4035-99c4-97b0b1eb3599",
+            "ramExpansion": 2,
+            "discs": [
+              "https://archive.org/download/SSCHD-Arquivista/Street%20Fighter%20Alpha%202%20%28US%29.chd"
+            ]
+          },
+          "type": "retro-yabause",
+          "title": "Street Fighter Alpha 2",
+          "description": "The second game in the Alpha series. It introduces the 'Custom Combo' system and fan-favorite characters like Sakura and Rolento. The Saturn port is excellent, retaining the animation frames and speed of the arcade version better than its 32-bit competitors.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Street%20Fighter%20Alpha%202%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Street%20Fighter%20Alpha%202%20(USA).png",
+          "backgroundPixelated": true,
+          "longTitle": "Street Fighter Alpha 2",
+          "added": 1789165035469
         },
         {
           "props": {
